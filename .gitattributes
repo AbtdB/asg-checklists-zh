@@ -1,0 +1,2 @@
+# OmegaT 的工程配置文件总是采用 LF，无关平台
+omegat.project text eol=lf

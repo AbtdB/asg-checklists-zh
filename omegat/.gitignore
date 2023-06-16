@@ -1,4 +1,4 @@
-/dictionary
+/source
 
 # 忽略仅用于参考的翻译记忆库，但排除会影响翻译结果的 auto 和 enforce 翻译记忆库
 /tm/*

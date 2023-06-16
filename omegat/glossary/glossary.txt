@@ -1,0 +1,256 @@
+# Glossary in tab-separated format -*- coding: utf-8 -*-
+# ---------- 工程 ---------- #
+reactor	反应堆
+power plant	动力装置
+fusion plasma	聚变等离子体
+exhaust plasma	排气等离子体
+plasma	等离子体
+plasma	等体
+EMA chamber	EMA 室
+magnetohydrodynamic	磁流体动力
+magnetic nozzle	磁喷管
+reaction mass	工质
+Injection	注入
+Fusion Fuel Injector	聚变燃料注入器
+Fusion Plasma Confinement Unit	聚变等离子体约束组件
+Exhaust Mass	排气工质
+Exhaust Mass Injector	排气工质注入器
+Exhaust Mass Augmentation	排气工质加力
+Exhaust Plasma Confinement Unit	排气等离子体约束组件
+Fusion Ignition maser	聚变点火脉泽器
+Fusion Igniter	聚变点火器
+Fusion Controller	聚变控制器
+Direct Energy Converter	直接能量转换器
+thermophotovoltaic	热光伏
+fusion Beta	聚变比压
+main engine	主发动机
+spool-up	升功率
+Power-Up	升功率
+power-up	上电
+Power Up	启动
+Deuterium	氘
+Helium-3	氦 3
+D2	氘气
+He-3	氦 3
+LH2	液氢
+LO2	液氧
+H2	氢气
+O2	氧气
+Pressurant	增压气体
+Valve	活门
+Pressurant Tanks Valve	增压气体储箱活门
+Pressurant Cross Valve	增压气体交输活门
+cross-valve	交输活门
+Bleed Valve	引气活门
+Pressurization Valve	增压活门
+Pressurization Drain Valve	增压排放活门
+Pressurization Bleed Valve	增压引气活门
+relief valve	安全活门
+Drain Valve	排放活门
+Cryo-Pump	低温泵
+vaporizer	蒸发器
+Cryo-fluids	低温流体
+Propellant	推进剂
+Quantity	储量
+circuit	回路
+circuit	电路
+Manifold	总管
+Refill	补加
+section 1	1 区
+section 2	2 区
+section 3	3 区
+section	区
+section	区段
+Bus	汇流条
+Main Bus	主汇流条
+EQPT Bus	设备汇流条
+BATT Bus	电池汇流条
+Tie	连接器
+Switch	电门
+Port Power	港口电源
+Energy Storage and Conditioning Unit	储能与调节组件
+Superconducting Magnetic Energy Storage Unit	超导磁储能装置
+Thermal Control and Cryogenic Unit	热控与低温组件
+Thermal Control	热控制
+Thermal Control	热控
+thermal load	热载荷
+Auxiliary Power Units	辅助动力装置
+Maneuvering Reaction Units	机动反作用组件
+jump-drive	跳跃驱动器
+Emergency Cooling System	应急冷却系统
+Quenching	失超
+Energy Emergency Discharge	应急放电
+Bill of Maintenance	维修工作单
+BoM	维修单
+Maintenance	维修
+repair	修理
+Replacement	更换
+Enhanced Precision Printing	增强型精密打印
+nominal	标称
+wear	耗损
+service	维护
+delayed button	延时按钮
+Estimated Time To Failure	预计无故障时间
+operation	运行
+operation	作业
+operation	操作
+Purge	吹扫
+Purge	吹除
+Purge	清除
+Power Balance gauge	功率平衡计
+Circuit Breaker	跳开关
+Circuit Breaker Tripped	跳开关跳出
+Trip	拔出	拔出跳开关
+Rearming	重置	按入跳开关
+Disconnection	断开	使用火工品强制断开设备的电气连接
+pyrotechnical	火工装置	使用了火工装置的
+thrust level	推力等级
+thruster	推力器
+Depressurization	释压
+# ---------- 航电与通信 ---------- #
+Navigation	导航
+sensors	传感器
+Avionics	航电
+flight display	飞行显示器
+Thrust Controller	推力控制器
+flight controller	飞行控制器
+Thrust Control	推力控制
+Flight Controls	飞行控制
+Attitude Control	姿态控制
+Attitude Aim	姿态指向
+Calibration	校准
+Roll	滚转
+Attitude	姿态
+NavOrb	导航球
+Thrust	推力
+Proximity Positioning System	邻近定位系统
+Proximity Positioning	邻近定位
+Space Positioning System	空间定位系统
+Comm	通信
+Short Range Positioning	近程定位
+Long Range Positioning	远程定位
+Beacon	信标
+Transponder	应答机
+Alliance Identification System	联盟识别系统
+Galactic Navigation Regulations	银河导航条例
+Docked Inhibit	对接抑制
+Systems Monitoring	系统监控
+Centralized Systems Monitoring	中央系统监控
+audio alarm	声音警报
+advisory log	咨询日志
+advisory cue	咨询提示
+X-Ray Pulsar Receiver	X 射线脉冲星接收机
+receiver	接收机
+star tracker	星跟踪器
+transceiver	收发机
+Relay	中继站
+# ---------- 导航 ----------  #
+Nav	导航
+Departure	离港
+Departure	出发
+Precision Departure	精密离港
+Non-Precision Departure	非精密离港
+flight plan	飞行计划
+Flight Planning	飞行规划
+Maneuvers	机动
+Mvr	机动
+Jumps	跳跃
+Approach	进近
+Reference Object	参照物
+Ref Object	参照物
+Arrival	进港
+Glide	滑行
+flaring zone	消速区
+flare	消速
+Orbspace	轨道空域
+docking corridor	对接走廊
+Docking Ingress Point	对接入口点
+docking port	对接口
+Docking	对接
+injection	入轨
+injection	注入
+Course Correction Injection	航线修正注入
+Transition	中转
+Transit	中转
+restricted flight region	限飞区
+NavData	导航数据
+parking orbit	停泊轨道
+Departure Point	离港点
+Outward	升轨
+inward	降轨
+Prograde	顺向
+apoapsis	远拱点
+periapsis	近拱点
+Plane	平面
+Burn	点火
+DeltaV	速增量
+Translation	平移
+guidance	制导
+Jump-Space	跳跃空间
+Jump-Space polarization	跳跃空间极化
+jump-point	跳跃点
+Modulation	调制
+Course Correction	航线修正
+trajectory propagator	轨迹预报模型
+Routine	例程
+NavTask	导航任务
+Route	航路
+Route Finder	航路查询器
+refueling stop	经停加油
+Navigation Station	导航站
+Automatic Flight Planner	自动飞行规划器
+Flight Editor	飞行编辑器
+Flight Analyzer	飞行分析器
+Jump Explorer	跳跃浏览器
+Sweep	扫掠
+leg	航节
+segment	航段
+ringed planets	有环行星
+ring station	星环空间站
+true anomaly	真近点角
+encounter	交会
+celestial body	天体
+Orbital Elements	轨道根数
+Epoch	历元
+semi major axis	半长轴
+eccentricity	离心率
+inclination	倾角
+longitude of the ascending node	升交点经度
+lan	升交点经度
+argument of the periapsis	近心点辐角
+tra	真近点角
+rms	均方根
+rms	均方根误差
+Dilution of Precision	精度衰减因子
+Dead Reckoning	航位推算法
+planned trajectory	预定轨迹
+radio emission	射电辐射
+# ---------- 其他 ---------- #
+Cold Start	冷启动
+Activate	激活
+Engage	接通
+Set	设定
+Set	调定
+Setup	设置
+Setup	建立
+As Required	按需
+Checklist	检查单
+spaceport	太空港
+Typ	典型
+Clearance	许可
+Cleared to	可以
+request	请求
+approved	同意
+ready	准备好
+ready	就绪
+Confirmed	证实
+undocking	对接脱离
+Tab	标签页
+NB:	注意：
+Arm	预位
+idle	空闲
+idle	慢车
+multiplier	乘数
+Slot	槽位
+cue	提示
+Switch	转换

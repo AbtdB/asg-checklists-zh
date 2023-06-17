@@ -726,6 +726,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A R U A: On</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T091032Z" creationid="AbtdB" creationdate="20230617T091032Z">
+        <seg>A R U A：开启</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A R U B: On</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T091040Z" creationid="AbtdB" creationdate="20230617T091040Z">
+        <seg>A R U B：开启</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A critical device's diagnostic system signaled a fault |after detecting a deviation from the nominal|operation.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230616T130254Z" creationid="AbtdB" creationdate="20230616T130254Z">
@@ -818,6 +834,22 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230615T171610Z" creationid="AbtdB" creationdate="20230615T171610Z">
         <seg>AGC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ALL Hatches &amp; Equalisation Valves</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T082749Z" creationid="AbtdB" creationdate="20230617T082749Z">
+        <seg>所有舱口和均压活门</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ALL hatches and equalisation valves: Closed</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T083618Z" creationid="AbtdB" creationdate="20230617T082816Z">
+        <seg>关闭所有舱口和均压活门</seg>
       </tuv>
     </tu>
     <tu>
@@ -962,6 +994,22 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230603T182446Z" creationid="AbtdB" creationdate="20230603T182446Z">
         <seg>APU 1-2-3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ARU A</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T091026Z" creationid="AbtdB" creationdate="20230617T091026Z">
+        <seg>ARU A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ARU B</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T091034Z" creationid="AbtdB" creationdate="20230617T091034Z">
+        <seg>ARU B</seg>
       </tuv>
     </tu>
     <tu>
@@ -1258,6 +1306,30 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230607T144923Z" creationid="AbtdB" creationdate="20230607T144903Z">
         <seg>脱离对接后，飞船必须飞往『离港点』（其位置相对于空间站定义）。下文解释离港点位置的柱面坐标。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Airflow Set</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T091422Z" creationid="AbtdB" creationdate="20230617T085524Z">
+        <seg>风量设定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Airflow Set: High</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T092607Z" creationid="AbtdB" creationdate="20230617T091302Z">
+        <seg>风量设定：高</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Airflow set: Normal</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T091305Z" creationid="AbtdB" creationdate="20230617T085531Z">
+        <seg>风量设定：正常</seg>
       </tuv>
     </tu>
     <tu>
@@ -2566,6 +2638,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>C H4: On</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T091256Z" creationid="AbtdB" creationdate="20230617T091256Z">
+        <seg>甲烷化：开启</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>C M T C U:A ON</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T085614Z" creationid="AbtdB" creationdate="20230617T085540Z">
+        <seg>C M T C U A 启动</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>C M T C U:B On</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T085623Z" creationid="AbtdB" creationdate="20230617T085623Z">
+        <seg>C M T C U B 启动</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>C. Check power consumption</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230615T173949Z" creationid="AbtdB" creationdate="20230615T173949Z">
@@ -2594,6 +2690,30 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230606T164013Z" creationid="AbtdB" creationdate="20230606T164013Z">
         <seg>CCI 点火（2）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CH4</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T091153Z" creationid="AbtdB" creationdate="20230617T091153Z">
+        <seg>CH4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CMTCU A</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T085538Z" creationid="AbtdB" creationdate="20230617T085538Z">
+        <seg>CMTCU A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CMTCU B</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T085616Z" creationid="AbtdB" creationdate="20230617T085616Z">
+        <seg>CMTCU B</seg>
       </tuv>
     </tu>
     <tu>
@@ -2634,6 +2754,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230615T161856Z" creationid="AbtdB" creationdate="20230615T161856Z">
         <seg>频道</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Charge</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T085252Z" creationid="AbtdB" creationdate="20230617T085252Z">
+        <seg>充电</seg>
       </tuv>
     </tu>
     <tu>
@@ -5726,6 +5854,38 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>EM Shield Discharge Protection</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T085327Z" creationid="AbtdB" creationdate="20230617T085327Z">
+        <seg>电磁盾放电保护</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>EM Shield Mode</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T085249Z" creationid="AbtdB" creationdate="20230617T085249Z">
+        <seg>电磁盾模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>EM shield discharge protection: On</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T085333Z" creationid="AbtdB" creationdate="20230617T085333Z">
+        <seg>电磁盾放电保护：开启</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>EM shield mode: Charge</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T085310Z" creationid="AbtdB" creationdate="20230617T085256Z">
+        <seg>电磁盾：充电模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>EMA feed priority</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230615T175547Z" creationid="AbtdB" creationdate="20230615T175547Z">
@@ -8054,6 +8214,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>H2 Bleed Valve A</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T090948Z" creationid="AbtdB" creationdate="20230617T090948Z">
+        <seg>氢引气活门 A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>H2 Bleed Valve A: Open</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T090959Z" creationid="AbtdB" creationdate="20230617T090959Z">
+        <seg>氢引气活门 A：开启</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>H2 Bleed Valve B</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T091002Z" creationid="AbtdB" creationdate="20230617T091002Z">
+        <seg>氢引气活门 B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>H2 Supply</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230607T072910Z" creationid="AbtdB" creationdate="20230607T072910Z">
@@ -8334,6 +8518,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>H2 bleed valve B: Open</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T091007Z" creationid="AbtdB" creationdate="20230617T091007Z">
+        <seg>氢引气活门 B：开启</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>H2 manifold pressure #1</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T152741Z" creationid="AbtdB" creationdate="20230610T152741Z">
@@ -8418,6 +8610,22 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230606T161814Z" creationid="AbtdB" creationdate="20230606T161814Z">
         <seg>HOLD.MAIN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hatches Command Lock</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T083822Z" creationid="AbtdB" creationdate="20230617T083822Z">
+        <seg>舱口指令锁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hatches command lock: Engaged</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T083918Z" creationid="AbtdB" creationdate="20230617T083918Z">
+        <seg>接通舱口指令锁</seg>
       </tuv>
     </tu>
     <tu>
@@ -9886,6 +10094,62 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>L N2 fill valve: Closed</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T090606Z" creationid="AbtdB" creationdate="20230617T090606Z">
+        <seg>液氮加注活门：关断</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>L N2 fill valve: Open</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T090456Z" creationid="AbtdB" creationdate="20230617T090456Z">
+        <seg>液氮加注活门：开启</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>L N2 inlet valve A: Closed</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T090653Z" creationid="AbtdB" creationdate="20230617T090653Z">
+        <seg>液氮入口活门 A：关断</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>L N2 inlet valve A: Open</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T090519Z" creationid="AbtdB" creationdate="20230617T090519Z">
+        <seg>液氮入口活门 A：开启</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>L N2 inlet valve B: Closed</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T090706Z" creationid="AbtdB" creationdate="20230617T090706Z">
+        <seg>液氮入口活门 B：关断</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>L N2 inlet valve B: Open</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T090539Z" creationid="AbtdB" creationdate="20230617T090539Z">
+        <seg>液氮入口活门 B：开启</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>L O 2 inlet valve B: OPEN</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T090336Z" creationid="AbtdB" creationdate="20230617T090336Z">
+        <seg>液氧入口活门 B：开启</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>L O2 Fill Valve: Closed</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230608T175703Z" creationid="AbtdB" creationdate="20230608T175703Z">
@@ -9954,6 +10218,30 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T155304Z" creationid="AbtdB" creationdate="20230610T155304Z">
         <seg>液氧低温泵：关闭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>L O2 inlet valve A: Closed</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T090739Z" creationid="AbtdB" creationdate="20230617T090739Z">
+        <seg>液氧入口活门 A：关断</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>L O2 inlet valve A: OPEN</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T090231Z" creationid="AbtdB" creationdate="20230617T090231Z">
+        <seg>液氧入口活门 A：开启</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>L O2 inlet valve B: Closed</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T090757Z" creationid="AbtdB" creationdate="20230617T090757Z">
+        <seg>液氧入口活门 B：关断</seg>
       </tuv>
     </tu>
     <tu>
@@ -10678,6 +10966,54 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LN2 Fill Valve</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T090401Z" creationid="AbtdB" creationdate="20230617T090401Z">
+        <seg>液氮加注活门</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LN2 Fill Valve (b)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T090556Z" creationid="AbtdB" creationdate="20230617T090556Z">
+        <seg>液氮加注活门（b）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LN2 Inlet Valve A</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T090504Z" creationid="AbtdB" creationdate="20230617T090504Z">
+        <seg>液氮入口活门 A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LN2 Inlet Valve A (b)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T090620Z" creationid="AbtdB" creationdate="20230617T090620Z">
+        <seg>液氮入口活门 A（b）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LN2 Inlet Valve B</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T090532Z" creationid="AbtdB" creationdate="20230617T090532Z">
+        <seg>液氮入口活门 B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LN2 Inlet Valve B (b)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T090702Z" creationid="AbtdB" creationdate="20230617T090702Z">
+        <seg>液氮入口活门 B（b）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LO2 #1 Pressurization Valve</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T154628Z" creationid="AbtdB" creationdate="20230610T154628Z">
@@ -10786,6 +11122,38 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230608T174608Z" creationid="AbtdB" creationdate="20230608T174608Z">
         <seg>液氧流量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LO2 Inlet Valve A</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T090216Z" creationid="AbtdB" creationdate="20230617T090216Z">
+        <seg>液氧入口活门 A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LO2 Inlet Valve A (b)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T090715Z" creationid="AbtdB" creationdate="20230617T090715Z">
+        <seg>液氧入口活门 A（b）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LO2 Inlet Valve B</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T090331Z" creationid="AbtdB" creationdate="20230617T090331Z">
+        <seg>液氧入口活门 B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LO2 Inlet Valve B (b)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T090750Z" creationid="AbtdB" creationdate="20230617T090750Z">
+        <seg>液氧入口活门 B（b）</seg>
       </tuv>
     </tu>
     <tu>
@@ -11886,6 +12254,54 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>N2 Flow Monitoring</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T085418Z" creationid="AbtdB" creationdate="20230617T085418Z">
+        <seg>氮气流量监测</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>N2 Outlet B</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T090844Z" creationid="AbtdB" creationdate="20230617T090844Z">
+        <seg>氮气出口 B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>N2 flow monitoring: On</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T085422Z" creationid="AbtdB" creationdate="20230617T085422Z">
+        <seg>氮气流量监测：开启</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>N2 outlet A</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T090836Z" creationid="AbtdB" creationdate="20230617T090836Z">
+        <seg>氮气出口 A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>N2 outlet A: Open</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T090841Z" creationid="AbtdB" creationdate="20230617T090841Z">
+        <seg>氮气出口 A：开启</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>N2 outlet B: Open</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T090850Z" creationid="AbtdB" creationdate="20230617T090850Z">
+        <seg>氮气出口 B：开启</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>NB: degrades with range from the source.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230612T173155Z" creationid="AbtdB" creationdate="20230612T173155Z">
@@ -12318,6 +12734,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Normal</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T085526Z" creationid="AbtdB" creationdate="20230617T085526Z">
+        <seg>正常</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Normal Thermal Control setup</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T105851Z" creationid="AbtdB" creationdate="20230609T105851Z">
@@ -12346,6 +12770,22 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T121712Z" creationid="AbtdB" creationdate="20230609T121712Z">
         <seg>提示：按需使用时间加速。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>O2 Outlet A</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T090900Z" creationid="AbtdB" creationdate="20230617T090900Z">
+        <seg>氧气出口 A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>O2 Outlet B</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T090918Z" creationid="AbtdB" creationdate="20230617T090918Z">
+        <seg>氧气出口 B</seg>
       </tuv>
     </tu>
     <tu>
@@ -12546,6 +12986,22 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T155237Z" creationid="AbtdB" creationdate="20230610T155237Z">
         <seg>3 区氧气总管压力正常</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>O2 outlet A: Open</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T090911Z" creationid="AbtdB" creationdate="20230617T090911Z">
+        <seg>氧气出口 A：开启</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>O2 outlet B: Open</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T090923Z" creationid="AbtdB" creationdate="20230617T090923Z">
+        <seg>氧气出口 B：开启</seg>
       </tuv>
     </tu>
     <tu>
@@ -12832,7 +13288,7 @@
       <tuv lang="en-US">
         <seg>Open</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230608T114308Z" creationid="AbtdB" creationdate="20230608T114308Z">
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T090417Z" creationid="AbtdB" creationdate="20230608T114308Z">
         <seg>打开</seg>
       </tuv>
     </tu>
@@ -13146,6 +13602,38 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230607T034009Z" creationid="AbtdB" creationdate="20230607T034009Z">
         <seg>氧气供应：至少 1 个区段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>P C U A: On</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T091018Z" creationid="AbtdB" creationdate="20230617T091018Z">
+        <seg>P C U A：开启</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>P C U B: On</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T091025Z" creationid="AbtdB" creationdate="20230617T091025Z">
+        <seg>P C U B：开启</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PCU A</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T091009Z" creationid="AbtdB" creationdate="20230617T091009Z">
+        <seg>PCU A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PCU B</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T091020Z" creationid="AbtdB" creationdate="20230617T091020Z">
+        <seg>PCU B</seg>
       </tuv>
     </tu>
     <tu>
@@ -15586,6 +16074,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230607T032507Z" creationid="AbtdB" creationdate="20230607T032350Z">
         <seg>获取抵达消速区的预计时间，以供提交至交通管制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rettracted</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T083516Z" creationid="AbtdB" creationdate="20230617T083516Z">
+        <seg>收回</seg>
       </tuv>
     </tu>
     <tu>
@@ -18466,6 +18962,22 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T030856Z" creationid="AbtdB" creationdate="20230609T030636Z">
         <seg>维护过程中临时禁用声音警报。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Terminal Gates</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T083504Z" creationid="AbtdB" creationdate="20230617T083504Z">
+        <seg>廊桥</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Terminal gates: Rettracted</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T083624Z" creationid="AbtdB" creationdate="20230617T083531Z">
+        <seg>收回廊桥</seg>
       </tuv>
     </tu>
     <tu>

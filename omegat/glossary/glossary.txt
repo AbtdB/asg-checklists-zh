@@ -34,8 +34,11 @@ D2	氘气
 He-3	氦 3
 LH2	液氢
 LO2	液氧
+LN2	液氮
 H2	氢气
 O2	氧气
+N2	氮气
+CH4	甲烷
 Pressurant	增压气体
 Valve	活门
 Pressurant Tanks Valve	增压气体储箱活门
@@ -107,6 +110,13 @@ pyrotechnical	火工装置	使用了火工装置的
 thrust level	推力等级
 thruster	推力器
 Depressurization	释压
+Equalisation Valve	均压活门
+Equalization Valve	均压活门
+Hatch	舱口
+Door	舱门
+Terminal Gate	廊桥
+Hatches Command Lock	舱口指令锁
+EM Shield	电磁盾
 # ---------- 航电与通信 ---------- #
 Navigation	导航
 sensors	传感器

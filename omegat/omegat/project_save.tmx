@@ -5208,8 +5208,8 @@
       <tuv lang="en-US">
         <seg>Crew module water quality:|- [0..1] scale for potable water|- 1 is best quality</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T074115Z" creationid="AbtdB" creationdate="20230818T074115Z">
-        <seg>乘员舱水质：|- 饮用水水质由 [0..1] 刻度表示。|- 1 表示最佳水质。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T143942Z" creationid="AbtdB" creationdate="20230818T074115Z">
+        <seg>乘员舱水质：|- 饮用水水质由 [0..1] 表示。|- 1 表示最佳水质。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23768,8 +23768,8 @@
       <tuv lang="en-US">
         <seg>Water recycling settings:|- APU: pure water from the power plant's APUs|(fuel cells). More commonly used for emergency|refills.|- ARU: water extracted from the crew module's |atmosphere (primarily crew breathing and |perspiration)|- WMU: treated and purified waste water |(primatily hygiene water and urine)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T104114Z" creationid="AbtdB" creationdate="20230818T104114Z">
-        <seg>水再生设置：|- APU：动力装置的 APU（燃料电池）提供的纯净水。一般用于紧急补水。|- ARU：从乘员舱大气中提取的水（主要来自乘员呼吸和排汗）。|- WMU：经处理净化后的废水（主要来自卫生用水和尿液）。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T144727Z" creationid="AbtdB" creationdate="20230818T104114Z">
+        <seg>水再生设置：|- APU：动力装置的 APU（燃料电池）提供的纯净水。一般用于应急补水。|- ARU：从乘员舱大气中提取的水（主要来自乘员呼吸和排汗）。|- WMU：经处理净化后的废水（主要来自卫生用水和尿液）。</seg>
       </tuv>
     </tu>
     <tu>

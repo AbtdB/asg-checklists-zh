@@ -48,6 +48,7 @@ Bleed Valve	引气活门
 Pressurization Valve	增压活门
 Pressurization Drain Valve	增压排放活门
 Pressurization Bleed Valve	增压引气活门
+H2 Bleed Valve	氢引气活门
 relief valve	安全活门
 Drain Valve	排放活门
 Cryo-Pump	低温泵
@@ -68,6 +69,7 @@ Bus	汇流条
 Main Bus	主汇流条
 EQPT Bus	设备汇流条
 BATT Bus	电池汇流条
+ESS Bus	重要汇流条
 Tie	连接器
 Switch	电门
 Port Power	港口电源
@@ -100,6 +102,7 @@ operation	操作
 Purge	吹扫
 Purge	吹除
 Purge	清除
+Purge	净化
 Power Balance gauge	功率平衡计
 Circuit Breaker	跳开关
 Circuit Breaker Tripped	跳开关跳出
@@ -110,13 +113,25 @@ pyrotechnical	火工装置	使用了火工装置的
 thrust level	推力等级
 thruster	推力器
 Depressurization	释压
+Essential Power Unit	重要电源装置
+Crew Module	乘员舱
+Water Processing & Storage Unit	水处理与储存装置
+Atmosphere Revitalization Unit	大气再生装置
+Pressure Control Unit	气压控制装置
+Waste Management Unit	废物管理装置
+Water Recycling	水再生
 Equalisation Valve	均压活门
 Equalization Valve	均压活门
 Hatch	舱口
+Outer Hatch	外舱口
+Inner Hatch	内舱口
 Door	舱门
 Terminal Gate	廊桥
 Hatches Command Lock	舱口指令锁
 EM Shield	电磁盾
+Crew Module Thermal Unit	乘员舱热控组件
+Heat Sink	热沉
+Sabatier reactor	萨巴蒂尔反应器
 # ---------- 航电与通信 ---------- #
 Navigation	导航
 sensors	传感器
@@ -264,3 +279,5 @@ multiplier	乘数
 Slot	槽位
 cue	提示
 Switch	转换
+Essential	重要
+Deephack Space Ops Consulting	Deephack 空间作业咨询

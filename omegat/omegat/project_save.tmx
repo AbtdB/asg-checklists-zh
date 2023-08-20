@@ -358,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>1 x WSPU</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T075034Z" creationid="AbtdB" creationdate="20230818T075034Z">
+        <seg>1 x WSPU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>1. Departure</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230607T075924Z" creationid="AbtdB" creationdate="20230607T075924Z">
@@ -458,6 +466,46 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230607T071922Z" creationid="AbtdB" creationdate="20230607T071922Z">
         <seg>距对接口 10 米</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>1x ARU</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T110543Z" creationid="AbtdB" creationdate="20230820T110543Z">
+        <seg>1x ARU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>1x ESSPU</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T081436Z" creationid="AbtdB" creationdate="20230820T081436Z">
+        <seg>1x ESSPU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>1x PCU</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T105848Z" creationid="AbtdB" creationdate="20230820T105848Z">
+        <seg>1x PCU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>1x TCCU</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T115215Z" creationid="AbtdB" creationdate="20230818T115215Z">
+        <seg>1x TCCU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>1x manifold</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T105118Z" creationid="AbtdB" creationdate="20230820T105118Z">
+        <seg>1x 总管</seg>
       </tuv>
     </tu>
     <tu>
@@ -726,6 +774,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A R U A: ON</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T104203Z" creationid="AbtdB" creationdate="20230820T104203Z">
+        <seg>A R U A：开启</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A R U A: On</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T091032Z" creationid="AbtdB" creationdate="20230617T091032Z">
@@ -734,10 +790,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A R U B: ON</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T104410Z" creationid="AbtdB" creationdate="20230820T104410Z">
+        <seg>A R U B：开启</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A R U B: On</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T091040Z" creationid="AbtdB" creationdate="20230617T091040Z">
         <seg>A R U B：开启</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A R U ventilation mode: ON</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T104428Z" creationid="AbtdB" creationdate="20230820T104428Z">
+        <seg>A R U 通风模式：开启</seg>
       </tuv>
     </tu>
     <tu>
@@ -1014,6 +1086,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ARU CO2 Removal</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T110656Z" creationid="AbtdB" creationdate="20230820T110656Z">
+        <seg>ARU 除二氧化碳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ARU Ventilation Mode</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T104420Z" creationid="AbtdB" creationdate="20230820T104420Z">
+        <seg>ARU 通风模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ASAP</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230616T130400Z" creationid="AbtdB" creationdate="20230616T130400Z">
@@ -1026,6 +1114,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230606T155359Z" creationid="AbtdB" creationdate="20230606T155359Z">
         <seg>ATT/THR 提示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Aboard</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T074751Z" creationid="AbtdB" creationdate="20230818T074745Z">
+        <seg>已登船</seg>
       </tuv>
     </tu>
     <tu>
@@ -1070,6 +1166,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Activate the Water Processing and Storage Unit A.|The WPSUs manage the crew module's water|circuits. Only one of them can be active at a given|time.|With the water fill valve open the unit will pump |the station's water into its pressurized tank.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T111927Z" creationid="AbtdB" creationdate="20230820T111927Z">
+        <seg>激活水处理与储存装置（WPSU）A。|WPSU 管理乘员舱的水回路。同一时刻只能运行一台 WPSU。水加注活门开启时，装置会从空间站取水，泵入自身加压水箱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Activate the Water Processing and Storage Unit A.|With the water fill valve open the unit will empty|the tank into the station's recycling system.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T113042Z" creationid="AbtdB" creationdate="20230820T113042Z">
+        <seg>激活水处理与储存装置 A。水加注活门开启时，装置会排空自身水箱，将水排入空间站的回收系统。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Activate the pressurant pumps (increase the |target pressure if required). This will provide |about 4 MW of cooling for a few minutes.|The hydrogen is stored into the pressurant tanks|for further use.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230616T132352Z" creationid="AbtdB" creationdate="20230616T132352Z">
@@ -1090,6 +1202,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230603T170650Z" creationid="AbtdB" creationdate="20230603T143701Z">
         <seg>激活推力控制器（单击旋钮）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Activates the ARU revitalization mode:|- ventilation|- CO2 removal|- atmosphere temperature control|- relative humidity control</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T111336Z" creationid="AbtdB" creationdate="20230820T111336Z">
+        <seg>激活 ARU 再生模式：|- 通风。|- 除二氧化碳。|- 大气温度控制。|- 相对湿度控制。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1130,6 +1250,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230607T023105Z" creationid="AbtdB" creationdate="20230607T023105Z">
         <seg>激活</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Active W P S U as required</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T112208Z" creationid="AbtdB" creationdate="20230820T112208Z">
+        <seg>按需激活 W P S U</seg>
       </tuv>
     </tu>
     <tu>
@@ -1310,6 +1438,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Airflow</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T104622Z" creationid="AbtdB" creationdate="20230820T104622Z">
+        <seg>风量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Airflow Set</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T091422Z" creationid="AbtdB" creationdate="20230617T085524Z">
@@ -1330,6 +1466,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T091305Z" creationid="AbtdB" creationdate="20230617T085531Z">
         <seg>风量设定：正常</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Airflow: As Required</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T104627Z" creationid="AbtdB" creationdate="20230820T104627Z">
+        <seg>风量：按需</seg>
       </tuv>
     </tu>
     <tu>
@@ -2646,6 +2790,38 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>C M T C U A Heat Sink as required</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T095930Z" creationid="AbtdB" creationdate="20230820T095930Z">
+        <seg>C M T C U A 热沉：按需</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>C M T C U A: ON</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T095236Z" creationid="AbtdB" creationdate="20230820T095209Z">
+        <seg>C M T C U A 开启</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>C M T C U B Heat Sink as required</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T100335Z" creationid="AbtdB" creationdate="20230820T100335Z">
+        <seg>C M T C U B 热沉：按需</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>C M T C U B: On</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T100303Z" creationid="AbtdB" creationdate="20230820T100303Z">
+        <seg>C M T C U B 开启</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>C M T C U:A ON</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T085614Z" creationid="AbtdB" creationdate="20230617T085540Z">
@@ -2702,6 +2878,302 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CM Airflow</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T111340Z" creationid="AbtdB" creationdate="20230820T111340Z">
+        <seg>乘员舱风量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CM Atmosphere</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T081610Z" creationid="AbtdB" creationdate="20230820T081610Z">
+        <seg>乘员舱大气</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CM Atmosphere Setup</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T074333Z" creationid="AbtdB" creationdate="20230818T074333Z">
+        <seg>乘员舱大气设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CM Atmosphere Setup Flight</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T104933Z" creationid="AbtdB" creationdate="20230820T104933Z">
+        <seg>飞行状态乘员舱大气设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CM Atmosphere Setup Flight Complete</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T111447Z" creationid="AbtdB" creationdate="20230820T111447Z">
+        <seg>飞行状态乘员舱大气设置完成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CM H2 Bleed Valve A</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T105832Z" creationid="AbtdB" creationdate="20230820T105832Z">
+        <seg>乘员舱氢引气活门 A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CM H2 Bleed Valve B</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T105835Z" creationid="AbtdB" creationdate="20230820T105835Z">
+        <seg>乘员舱氢引气活门 B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CM H2 Bleed Valves</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T105557Z" creationid="AbtdB" creationdate="20230820T105557Z">
+        <seg>乘员舱氢引气活门</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CM LN2 Fill Valve</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T100613Z" creationid="AbtdB" creationdate="20230820T100613Z">
+        <seg>乘员舱液氮加注活门</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CM LN2 Fill Valve (b)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T100957Z" creationid="AbtdB" creationdate="20230820T100957Z">
+        <seg>乘员舱液氮加注活门（b）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CM LN2 Inlet Valve A</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T100707Z" creationid="AbtdB" creationdate="20230820T100707Z">
+        <seg>乘员舱液氮入口活门 A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CM LN2 Inlet Valve A (b)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T101020Z" creationid="AbtdB" creationdate="20230820T101020Z">
+        <seg>乘员舱液氮入口活门 A（b）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CM LN2 Inlet Valve B</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T100813Z" creationid="AbtdB" creationdate="20230820T100813Z">
+        <seg>乘员舱液氮入口活门 B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CM LN2 Inlet Valve B (b)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T101109Z" creationid="AbtdB" creationdate="20230820T101109Z">
+        <seg>乘员舱液氮入口活门 B（b）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CM LN2 Quantity</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T045756Z" creationid="AbtdB" creationdate="20230818T045756Z">
+        <seg>乘员舱液氮储量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CM LO2 Inlet Valve A</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T100420Z" creationid="AbtdB" creationdate="20230820T100420Z">
+        <seg>乘员舱液氧入口活门 A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CM LO2 Inlet Valve A (b)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T101130Z" creationid="AbtdB" creationdate="20230820T101130Z">
+        <seg>乘员舱液氧入口活门 A（b）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CM LO2 Inlet Valve B</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T100532Z" creationid="AbtdB" creationdate="20230820T100532Z">
+        <seg>乘员舱液氧入口活门 B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CM LO2 Inlet Valve B (b)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T101142Z" creationid="AbtdB" creationdate="20230820T101142Z">
+        <seg>乘员舱液氧入口活门 B（b）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CM LO2 Quantity</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T045920Z" creationid="AbtdB" creationdate="20230818T045920Z">
+        <seg>乘员舱液氧储量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CM N2 Outlet Valve A</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T105258Z" creationid="AbtdB" creationdate="20230820T105258Z">
+        <seg>乘员舱氮气出口活门 A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CM N2 Outlet Valve B</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T105305Z" creationid="AbtdB" creationdate="20230820T105305Z">
+        <seg>乘员舱氮气出口活门 B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CM N2 Outlet Valves</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T105103Z" creationid="AbtdB" creationdate="20230820T105103Z">
+        <seg>乘员舱氮气出口活门</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CM O2 Outlet Valve A</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T105449Z" creationid="AbtdB" creationdate="20230820T105449Z">
+        <seg>乘员舱氧气出口活门 A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CM O2 Outlet Valve B</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T105455Z" creationid="AbtdB" creationdate="20230820T105455Z">
+        <seg>乘员舱氧气出口活门 B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CM O2 Outlet Valves</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T105308Z" creationid="AbtdB" creationdate="20230820T105308Z">
+        <seg>乘员舱氧气出口活门</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CM Single ARU</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T110540Z" creationid="AbtdB" creationdate="20230820T110540Z">
+        <seg>乘员舱单 ARU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CM Single PCU</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T105845Z" creationid="AbtdB" creationdate="20230820T105845Z">
+        <seg>乘员舱单 PCU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CM Tanks T° Regulation</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T101155Z" creationid="AbtdB" creationdate="20230820T101155Z">
+        <seg>乘员舱储箱温控</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CM Water Circuit</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T075022Z" creationid="AbtdB" creationdate="20230818T075022Z">
+        <seg>乘员舱水回路</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CM Water Fill Valve (a)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T111647Z" creationid="AbtdB" creationdate="20230820T111647Z">
+        <seg>乘员舱水加注活门（a）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CM Water Fill Valve (b)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T112141Z" creationid="AbtdB" creationdate="20230820T112141Z">
+        <seg>乘员舱水加注活门（b）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CM Water Purge</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T113223Z" creationid="AbtdB" creationdate="20230818T104219Z">
+        <seg>乘员舱水净化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CM Water Quality</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T050300Z" creationid="AbtdB" creationdate="20230818T050300Z">
+        <seg>乘员舱水质</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CM Water Quantity</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T050018Z" creationid="AbtdB" creationdate="20230818T050018Z">
+        <seg>乘员舱水储量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CM Water Recycling</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T103548Z" creationid="AbtdB" creationdate="20230818T103548Z">
+        <seg>乘员舱水再生</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CM Water Refill</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T100921Z" creationid="AbtdB" creationdate="20230820T100921Z">
+        <seg>乘员舱水加注</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CMTCU A</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T085538Z" creationid="AbtdB" creationdate="20230617T085538Z">
@@ -2710,10 +3182,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CMTCU A Heat Sink</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T095912Z" creationid="AbtdB" creationdate="20230820T095912Z">
+        <seg>CMTCU A 热沉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CMTCU B</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T085616Z" creationid="AbtdB" creationdate="20230617T085616Z">
         <seg>CMTCU B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CMTCU B Heat Sink</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T100329Z" creationid="AbtdB" creationdate="20230820T100329Z">
+        <seg>CMTCU B 热沉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CMTCUs Temperatures</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T045411Z" creationid="AbtdB" creationdate="20230818T045411Z">
+        <seg>CMTCU 温度</seg>
       </tuv>
     </tu>
     <tu>
@@ -2934,6 +3430,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Check the crew module tanks' liquid nitrogen|quantity.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T050137Z" creationid="AbtdB" creationdate="20230818T045910Z">
+        <seg>检查乘员舱液氮储量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Check the crew module tanks' liquid oxygen|quantity.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T050152Z" creationid="AbtdB" creationdate="20230818T045937Z">
+        <seg>检查乘员舱液氧储量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Check the crew module tanks' water quantity.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T050203Z" creationid="AbtdB" creationdate="20230818T050040Z">
+        <seg>检查乘员舱水储量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Check the deuterium quantity.|Follow the "Fusion Fuels Refueling Checklist" if|needed (see below)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230603T180551Z" creationid="AbtdB" creationdate="20230603T175831Z">
@@ -3042,6 +3562,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230604T034134Z" creationid="AbtdB" creationdate="20230604T034134Z">
         <seg>检查 OTC 指令的平移模式和参数。标准的指令包含：|• 柱坐标（r, α, z）表示的目标位置。|• 要求使用的平移模式，可以是不限制高度变化的|（▸rαz），或是要求先升降再平移的（z▸rα）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Check the voltage of the crew module's ESSential|Bus (nominal = 400 V)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T090309Z" creationid="AbtdB" creationdate="20230820T090309Z">
+        <seg>检查乘员舱重要汇流条电压（标称值 = 400 V）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3558,6 +4086,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Closes the water fill valve.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T112153Z" creationid="AbtdB" creationdate="20230820T112153Z">
+        <seg>关断水加注活门。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Closing Velocity</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230606T162525Z" creationid="AbtdB" creationdate="20230606T162525Z">
@@ -3602,6 +4138,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230608T181216Z" creationid="AbtdB" creationdate="20230608T181216Z">
         <seg>冷启动检查单完成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cold Start |- CSN|- Deephack Space Ops Consulting|Initial power-up out of deep freeze state</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T104450Z" creationid="AbtdB" creationdate="20230818T104450Z">
+        <seg>冷启动|- CSN|- Deephack 空间作业咨询|从深度冷舱状态执行初始启动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4226,6 +4770,462 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230608T031205Z" creationid="AbtdB" creationdate="20230608T031108Z">
         <seg>基于飞船当前状态新建轨道。若飞船处于对接状态，则创建所对接的空间站的轨道。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T074437Z" creationid="AbtdB" creationdate="20230818T074437Z">
+        <seg>乘员</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew Module A R U ventilation mode: off</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T111209Z" creationid="AbtdB" creationdate="20230820T111209Z">
+        <seg>乘员舱 A R U 通风模式：关闭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew Module Atmosphere Setup</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T074413Z" creationid="AbtdB" creationdate="20230818T074413Z">
+        <seg>乘员舱大气设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew Module Atmosphere Setup Docked</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T101848Z" creationid="AbtdB" creationdate="20230820T101828Z">
+        <seg>对接状态乘员舱大气设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew Module Atmosphere Setup Docked Complete</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T104834Z" creationid="AbtdB" creationdate="20230820T104801Z">
+        <seg>对接状态乘员舱大气设置完成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew Module Atmosphere Setup, Docked|- Deephack Space Ops Consulting|- CSN|Crew Module atmosphere setup while docked</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T102028Z" creationid="AbtdB" creationdate="20230820T102028Z">
+        <seg>乘员舱大气设置，对接状态。|- Deephack 空间作业咨询|- CSN|对接时设置乘员舱大气。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew Module Atmosphere Setup, Flight|- CSN|- Deephack Space Ops Consulting|Configures the atmosphere control for flight.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T105044Z" creationid="AbtdB" creationdate="20230820T105044Z">
+        <seg>乘员舱大气设置，飞行状态。|- Deephack 空间作业咨询|- CSN|设置乘员舱大气以准备飞行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew Module Atmosphere Setup: Docked</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T105003Z" creationid="AbtdB" creationdate="20230818T104322Z">
+        <seg>乘员舱大气设置：对接状态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew Module Atmosphere Setup: Flight, Complete</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T111504Z" creationid="AbtdB" creationdate="20230820T111504Z">
+        <seg>飞行状态乘员舱大气设置完成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew Module Atmosphere Setup: flight</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T105010Z" creationid="AbtdB" creationdate="20230820T104941Z">
+        <seg>乘员舱大气设置：飞行状态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew Module Carbon Dioxide Removal: methanation</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T110719Z" creationid="AbtdB" creationdate="20230820T110719Z">
+        <seg>乘员舱除二氧化碳模式：甲烷化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew Module L N2 Quantity</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T045829Z" creationid="AbtdB" creationdate="20230818T045829Z">
+        <seg>乘员舱液氮储量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew Module L N2 fill valve: Closed</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T101051Z" creationid="AbtdB" creationdate="20230820T101005Z">
+        <seg>乘员舱液氮加注活门：关断</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew Module L N2 fill valve: Open</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T100625Z" creationid="AbtdB" creationdate="20230820T100625Z">
+        <seg>乘员舱液氮加注活门：开启</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew Module L N2 inlet valve A: Open</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T100717Z" creationid="AbtdB" creationdate="20230820T100717Z">
+        <seg>乘员舱液氮入口活门 A：开启</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew Module L O 2 inlet valve B: OPEN</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T100543Z" creationid="AbtdB" creationdate="20230820T100543Z">
+        <seg>乘员舱液氧入口活门 B：开启</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew Module L O2 inlet valve A: OPEN</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T100431Z" creationid="AbtdB" creationdate="20230820T100431Z">
+        <seg>乘员舱液氧入口活门 A：开启</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew Module Water Purge</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T113233Z" creationid="AbtdB" creationdate="20230818T104229Z">
+        <seg>乘员舱水净化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew Module Water Recycling</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T103603Z" creationid="AbtdB" creationdate="20230818T103603Z">
+        <seg>乘员舱水再生</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew Module Water Tanks Purge</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T112603Z" creationid="AbtdB" creationdate="20230820T112353Z">
+        <seg>乘员舱水箱净化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew Module Water Tanks Purge Checklist</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T112612Z" creationid="AbtdB" creationdate="20230820T112359Z">
+        <seg>乘员舱水箱净化检查单</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew Module Water Tanks Purge Checklist Complete</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T113143Z" creationid="AbtdB" creationdate="20230820T113143Z">
+        <seg>乘员舱水箱净化检查单完成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew Module Water Tanks Purge Complete</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T113134Z" creationid="AbtdB" creationdate="20230820T113134Z">
+        <seg>乘员舱水箱净化完成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew Module Water Tanks Purge|- CSN</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T113157Z" creationid="AbtdB" creationdate="20230820T113157Z">
+        <seg>乘员舱水箱净化|- CSN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew Module Water Tanks Purge|- CSN|To help prevent microbiological contaminations,|the water tanks should be regularly purged,|typically at each docking. The internal sanitization|process requires a few hours and activates |regardless of the WPSUs On/Off state.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T112847Z" creationid="AbtdB" creationdate="20230820T112522Z">
+        <seg>乘员舱水箱清除。|- CSN|为预防微生物污染，水箱应定期（通常是每次对接时）净化。水箱内部消毒程序需要数个小时，且不管 WPSU 开启或关闭都会运行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew Module Water Tanks Refill</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T111516Z" creationid="AbtdB" creationdate="20230820T111516Z">
+        <seg>乘员舱水箱加注</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew Module Water Tanks Refill Checklist</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T111520Z" creationid="AbtdB" creationdate="20230820T111520Z">
+        <seg>乘员舱水箱加注检查单</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew Module Water Tanks Refill Checklist Complete</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T112347Z" creationid="AbtdB" creationdate="20230820T112347Z">
+        <seg>乘员舱水箱加注检查单完成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew Module Water Tanks Refill Complete</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T112336Z" creationid="AbtdB" creationdate="20230820T112327Z">
+        <seg>乘员舱水箱加注完成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew Module Water Tanks Refill|- CSN</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T111532Z" creationid="AbtdB" creationdate="20230820T111532Z">
+        <seg>乘员舱水箱加注|- CSN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew Module air flow: as required</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T111345Z" creationid="AbtdB" creationdate="20230820T111345Z">
+        <seg>乘员舱风量：按需</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew Module power: single E S S P U</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T081500Z" creationid="AbtdB" creationdate="20230820T081500Z">
+        <seg>乘员舱电源：单 E S S P U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew Module tanks temperature regulation: ON</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T101201Z" creationid="AbtdB" creationdate="20230820T101201Z">
+        <seg>乘员舱储箱温控：开启</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew Module thermal control temperatures</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T045604Z" creationid="AbtdB" creationdate="20230818T045604Z">
+        <seg>乘员舱热控温度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew Module: Single A R U On</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T110552Z" creationid="AbtdB" creationdate="20230820T110552Z">
+        <seg>乘员舱：单 A R U 开启</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew Module: Single PCU On</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T105907Z" creationid="AbtdB" creationdate="20230820T105907Z">
+        <seg>乘员舱：单 PCU 开启</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew Module: Single hydrogen supply manifold</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T105601Z" creationid="AbtdB" creationdate="20230820T105601Z">
+        <seg>乘员舱：单总管供氢</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew Module: Single nitrogen supply manifold</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T105204Z" creationid="AbtdB" creationdate="20230820T105204Z">
+        <seg>乘员舱：单总管供氮</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew Module: Single oxygen supply manifold</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T105317Z" creationid="AbtdB" creationdate="20230820T105317Z">
+        <seg>乘员舱：单总管供氧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew module L N2 inlet valve A: Closed</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T101041Z" creationid="AbtdB" creationdate="20230820T101030Z">
+        <seg>乘员舱液氮入口活门 A：关断</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew module L N2 inlet valve B: Closed</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T101118Z" creationid="AbtdB" creationdate="20230820T101118Z">
+        <seg>乘员舱液氮入口活门 B：关断</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew module L N2 inlet valve B: Open</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T100822Z" creationid="AbtdB" creationdate="20230820T100822Z">
+        <seg>乘员舱液氮入口活门 B：开启</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew module L O2 Quantity</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T045929Z" creationid="AbtdB" creationdate="20230818T045929Z">
+        <seg>乘员舱液氧储量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew module L O2 inlet valve A: Closed</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T101135Z" creationid="AbtdB" creationdate="20230820T101135Z">
+        <seg>乘员舱液氧入口活门 A：关断</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew module L O2 inlet valve B: Closed</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T101149Z" creationid="AbtdB" creationdate="20230820T101149Z">
+        <seg>乘员舱液氧入口活门 B：关断</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew module Water Quality</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T050309Z" creationid="AbtdB" creationdate="20230818T050309Z">
+        <seg>乘员舱水质</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew module Water Quantity</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T050025Z" creationid="AbtdB" creationdate="20230818T050025Z">
+        <seg>乘员舱水储量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew module atmosphere setup COMPLETE</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T104920Z" creationid="AbtdB" creationdate="20230820T104920Z">
+        <seg>乘员舱大气设置完成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew module thermal control: single T C U</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T081503Z" creationid="AbtdB" creationdate="20230818T115231Z">
+        <seg>乘员舱热控：单 T C U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew module water circuit: one W P S U active</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T075600Z" creationid="AbtdB" creationdate="20230818T075600Z">
+        <seg>乘员舱水回路：单 W P S U 激活</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew module water fill valve: Closed</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T113125Z" creationid="AbtdB" creationdate="20230820T113125Z">
+        <seg>乘员舱水加注活门：关断</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew module water fill valve: OFF</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T112147Z" creationid="AbtdB" creationdate="20230820T112147Z">
+        <seg>乘员舱水加注活门：关断</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew module water fill valve: ON</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T111657Z" creationid="AbtdB" creationdate="20230820T111657Z">
+        <seg>乘员舱水加注活门：开启</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew module water fill valve: Open</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T112946Z" creationid="AbtdB" creationdate="20230820T112946Z">
+        <seg>乘员舱水加注活门：开启</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew module water quality:|- [0..1] scale for potable water|- 1 is best quality</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T074115Z" creationid="AbtdB" creationdate="20230818T074115Z">
+        <seg>乘员舱水质：|- 饮用水水质由 [0..1] 刻度表示。|- 1 表示最佳水质。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew module water refill</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T100928Z" creationid="AbtdB" creationdate="20230820T100928Z">
+        <seg>乘员舱水加注</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crew: ABOARD</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T074758Z" creationid="AbtdB" creationdate="20230818T074758Z">
+        <seg>乘员已登船</seg>
       </tuv>
     </tu>
     <tu>
@@ -5478,6 +6478,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Disengaged</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T084623Z" creationid="AbtdB" creationdate="20230820T084623Z">
+        <seg>解除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Display</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230603T172828Z" creationid="AbtdB" creationdate="20230603T172828Z">
@@ -5506,6 +6514,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230603T142749Z" creationid="AbtdB" creationdate="20230603T142749Z">
         <seg>对接指定对接口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Docked</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T104310Z" creationid="AbtdB" creationdate="20230818T104310Z">
+        <seg>对接</seg>
       </tuv>
     </tu>
     <tu>
@@ -5830,6 +6846,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>E S C Use Batteries Energy Quantity</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T090540Z" creationid="AbtdB" creationdate="20230820T090540Z">
+        <seg>E S C U 电池电量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>E S S P Use Batteries Energy Quantity</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T090351Z" creationid="AbtdB" creationdate="20230820T090351Z">
+        <seg>E S S P U 电池电量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>EDU #1</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230608T180832Z" creationid="AbtdB" creationdate="20230608T180832Z">
@@ -6078,6 +7110,54 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ESCUs Batteries Charge</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T090525Z" creationid="AbtdB" creationdate="20230820T090525Z">
+        <seg>ESCU 电池电量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ESS Bus Voltage</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T094909Z" creationid="AbtdB" creationdate="20230820T090104Z">
+        <seg>重要汇流条电压</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ESSPU A</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T081601Z" creationid="AbtdB" creationdate="20230820T081601Z">
+        <seg>ESSPU A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ESSPU B</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T081604Z" creationid="AbtdB" creationdate="20230820T081604Z">
+        <seg>ESSPU B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ESSPUs Batteries Charge</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T090327Z" creationid="AbtdB" creationdate="20230820T090327Z">
+        <seg>ESSPU 电池充电</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ESSPUs Charge</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T024328Z" creationid="AbtdB" creationdate="20230818T024328Z">
+        <seg>ESSPU 充电</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Editor and Nav ToolBox 🛈</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230607T092735Z" creationid="AbtdB" creationdate="20230607T092735Z">
@@ -6186,6 +7266,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T120933Z" creationid="AbtdB" creationdate="20230609T120933Z">
         <seg>紧急停堆</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Empty</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T113045Z" creationid="AbtdB" creationdate="20230820T113045Z">
+        <seg>空</seg>
       </tuv>
     </tu>
     <tu>
@@ -6606,6 +7694,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Equalization Valves</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T113245Z" creationid="AbtdB" creationdate="20230818T113245Z">
+        <seg>均压活门</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Equipment #1 T°</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T110152Z" creationid="AbtdB" creationdate="20230609T110152Z">
@@ -6810,6 +7906,22 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230608T113333Z" creationid="AbtdB" creationdate="20230608T113333Z">
         <seg>设备 3 区温度目标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Essential Power Units' Charge</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T102158Z" creationid="AbtdB" creationdate="20230818T045214Z">
+        <seg>重要电源装置充电</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Essential bus voltage</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T090203Z" creationid="AbtdB" creationdate="20230820T090203Z">
+        <seg>重要汇流条电压</seg>
       </tuv>
     </tu>
     <tu>
@@ -7078,6 +8190,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Extended</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T102506Z" creationid="AbtdB" creationdate="20230820T102506Z">
+        <seg>伸出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Extra payload</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230607T145517Z" creationid="AbtdB" creationdate="20230607T145517Z">
@@ -7222,6 +8342,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Fills the crew module's water tanks.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T100944Z" creationid="AbtdB" creationdate="20230820T100944Z">
+        <seg>加注乘员舱的水箱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Final Checks</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230607T024939Z" creationid="AbtdB" creationdate="20230607T024939Z">
@@ -7322,6 +8450,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230607T173022Z" creationid="AbtdB" creationdate="20230607T172417Z">
         <seg>消速区和进近矢量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Flight</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T074338Z" creationid="AbtdB" creationdate="20230818T074338Z">
+        <seg>飞行</seg>
       </tuv>
     </tu>
     <tu>
@@ -7498,6 +8634,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230607T035424Z" creationid="AbtdB" creationdate="20230607T035424Z">
         <seg>自由飞行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Full</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T111943Z" creationid="AbtdB" creationdate="20230820T111943Z">
+        <seg>满</seg>
       </tuv>
     </tu>
     <tu>
@@ -8622,10 +9766,58 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hatches Command Lock (a)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T115145Z" creationid="AbtdB" creationdate="20230818T115145Z">
+        <seg>舱口指令锁（a）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hatches Command Lock (b)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T084555Z" creationid="AbtdB" creationdate="20230820T084555Z">
+        <seg>舱口指令锁（b）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hatches Command Lock (c)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T084913Z" creationid="AbtdB" creationdate="20230820T084913Z">
+        <seg>舱口指令锁（c）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hatches Panel</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T102036Z" creationid="AbtdB" creationdate="20230820T102036Z">
+        <seg>舱口面板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hatches command lock: Disengaged</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T084631Z" creationid="AbtdB" creationdate="20230820T084631Z">
+        <seg>解除舱口指令锁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hatches command lock: Engaged</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T083918Z" creationid="AbtdB" creationdate="20230617T083918Z">
         <seg>接通舱口指令锁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hatches panel UNLOCKED</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T102113Z" creationid="AbtdB" creationdate="20230820T102054Z">
+        <seg>舱口面板解锁</seg>
       </tuv>
     </tu>
     <tu>
@@ -9638,6 +10830,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In ventilation mode the ARUs do not perform|any atmosphere treatment. This is used to avoid|conflicting with the station's life support systems|while the hatches are open.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T104558Z" creationid="AbtdB" creationdate="20230820T104443Z">
+        <seg>通风模式下，ARU 不对大气进行任何处理。此模式用于在舱口开启时防止与空间站生保系统产生冲突。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Increase</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230616T131300Z" creationid="AbtdB" creationdate="20230616T131300Z">
@@ -9722,6 +10922,78 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230607T022713Z" creationid="AbtdB" creationdate="20230607T022713Z">
         <seg>开始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inner Equalization Valve A</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T113538Z" creationid="AbtdB" creationdate="20230818T113538Z">
+        <seg>内均压活门 A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inner Equalization Valve B</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T113544Z" creationid="AbtdB" creationdate="20230818T113544Z">
+        <seg>内均压活门 B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inner Equalization Valves</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T103059Z" creationid="AbtdB" creationdate="20230820T103059Z">
+        <seg>内均压活门</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inner Hatch A</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T084824Z" creationid="AbtdB" creationdate="20230820T084824Z">
+        <seg>内舱口 A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inner Hatch B</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T084830Z" creationid="AbtdB" creationdate="20230820T084830Z">
+        <seg>内舱口 B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inner Hatches</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T084637Z" creationid="AbtdB" creationdate="20230820T084637Z">
+        <seg>内舱口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inner equalization valves: OPEN</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T103104Z" creationid="AbtdB" creationdate="20230820T103104Z">
+        <seg>内均压活门：开启</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inner hatches: Closed</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T084643Z" creationid="AbtdB" creationdate="20230820T084643Z">
+        <seg>内舱口：关闭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inner hatches: OPEN</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T103528Z" creationid="AbtdB" creationdate="20230820T103528Z">
+        <seg>内舱口：开启</seg>
       </tuv>
     </tu>
     <tu>
@@ -11990,6 +13262,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Main Tanks T° Regulation</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T101755Z" creationid="AbtdB" creationdate="20230820T101755Z">
+        <seg>主储箱温控</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Maintenance Operation</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230616T130354Z" creationid="AbtdB" creationdate="20230616T130354Z">
@@ -12002,6 +13282,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230607T024317Z" creationid="AbtdB" creationdate="20230607T024317Z">
         <seg>确保发电量足以维持 SMES 充满。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Make the crew module airtight but keep the|inner hatches open for a while to let the ARUs|process the airlocks' atmosphere.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T113930Z" creationid="AbtdB" creationdate="20230818T113851Z">
+        <seg>确保乘员舱气密，但是保持内舱口打开一段时间，让 ARU 处理气闸舱的大气。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12218,6 +13506,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230606T164222Z" creationid="AbtdB" creationdate="20230606T164222Z">
         <seg>监视 ⪧[ΔV] 与 ⪧[T↔]，即剩余点火 ΔV 和时间指示。归零时断开推力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Monitors the PCU's N2 flow to detect atmosphere|leaks. Nitrogen is inert and therefore losses can|only be due to leaks. However even small changes|of the atmosphere's temperature or composition |can require more N2 to maintain the commanded|pressure. As a result this detector is reliable only in|perfectly steady conditions.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T090000Z" creationid="AbtdB" creationdate="20230820T090000Z">
+        <seg>监测 PCU 的氮气流量，以检查是否存在大气泄漏。氮气呈惰性，因此只有泄漏会导致氮气损失。但是，大气温度或成分的微小变化就可导致气压改变，从而需要较多氮气来维持设定气压。因此，这种泄漏探测方式仅在大气完全稳定时可靠。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12694,6 +13990,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Nominal temperatures:|- Equipement 288 K|- Refrigeration 244 K|- Cryogenic circuit 22 K</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T045740Z" creationid="AbtdB" creationdate="20230818T045740Z">
+        <seg>标称温度：|- 设备 288 K|- 制冷 244 K|- 低温回路 22 K</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Non-Precision Departure</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230603T135750Z" creationid="AbtdB" creationdate="20230603T135750Z">
@@ -12734,6 +14038,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Non-Precision Departure|- CSN|- Deephack Space Ops Consulting|"Non-Precision" = departure procedure without a| prepared flight plan (typically for local orbital |operations)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T074325Z" creationid="AbtdB" creationdate="20230818T074325Z">
+        <seg>非精密离港 - CSN|- Deephack 空间作业咨询|『非精密』= 不带飞行计划离港（通常用于当地轨道运行）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Normal</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T085526Z" creationid="AbtdB" creationdate="20230617T085526Z">
@@ -12770,6 +14082,22 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T121712Z" creationid="AbtdB" creationdate="20230609T121712Z">
         <seg>提示：按需使用时间加速。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now activate WPSU B to fill its tank.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T112105Z" creationid="AbtdB" creationdate="20230820T112105Z">
+        <seg>现在激活 WPSU B，加注它的水箱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now activate WPSU B to purge its tank.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T113112Z" creationid="AbtdB" creationdate="20230820T113112Z">
+        <seg>现在激活 WPSU B，排空它的水箱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13270,6 +14598,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>One Water Processing &amp; Storage Unit must be|active at all times, it:|- provides potable water to the crew module's|equipment|- can collect recycled water from the APUs (power|plant fuel cells), ARUs (atmosphere revitalization|units) and WMUs (waste management units)?</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T103507Z" creationid="AbtdB" creationdate="20230818T102147Z">
+        <seg>任何时刻都应激活至少一台水处理与储存装置（WPSU），该装置：|- 向乘员舱设备提供饮用水。|- 可从 APU（动力装置燃料电池）、ARU（大气再生装置）和 WMU（废物管理装置）？回收再生水。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>One single ESCU to Main Bus</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T105654Z" creationid="AbtdB" creationdate="20230609T105654Z">
@@ -13318,6 +14654,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open the inner hatches to get some ventilation|air flow in the airlocks. The pressure differential|must be less than 200 Pa.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T103614Z" creationid="AbtdB" creationdate="20230820T103614Z">
+        <seg>打开内舱口，为气闸舱通风。压差必须小于 200 Pa。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open the outer hatches. This will let the |ventilation system mix the station's and the ship's|atmospheres (essentially using the station's life|support systems to maintain the ship's air).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T104159Z" creationid="AbtdB" creationdate="20230820T104159Z">
+        <seg>打开外舱口。这会令通风系统混合空间站与飞船的大气（即，使用空间站的生保系统来支持飞船的大气）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open the passive pressurization valve if the LH2|tank is not pressurized.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T151938Z" creationid="AbtdB" creationdate="20230610T151938Z">
@@ -13354,6 +14706,54 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T075504Z" creationid="AbtdB" creationdate="20230610T075504Z">
         <seg>开启 3 区氘供应活门（准备开启相应注入器）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Opens the docking port's liquid nitrogen fill|valve.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T100658Z" creationid="AbtdB" creationdate="20230820T100658Z">
+        <seg>打开对接口的液氮加注活门。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Opens the fill valve for the crew module's liquid|nitrogen tank A. The nominal module's|atmosphere contains 79% of nitrogen.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T100803Z" creationid="AbtdB" creationdate="20230820T100803Z">
+        <seg>打开乘员舱液氮箱 A 的加注活门。舱内大气在标称状态下含有 79% 的氮气。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Opens the fill valve for the crew module's liquid|nitrogen tank B. The nominal module's|atmosphere contains 79% of nitrogen.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T100830Z" creationid="AbtdB" creationdate="20230820T100830Z">
+        <seg>打开乘员舱液氮箱 B 的加注活门。舱内大气在标称状态下含有 79% 的氮气。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Opens the fill valve for the crew module's liquid|oxygen tank A. That valve is connected to the|power plant's LO2 manifold, section 2.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T100525Z" creationid="AbtdB" creationdate="20230820T100525Z">
+        <seg>打开乘员舱液氧箱 A 的加注活门。该活门连通动力装置 2 区的液氧总管。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Opens the fill valve for the crew module's liquid|oxygen tank B. That valve is connected to the|power plant's LO2 manifold, section 3.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T100604Z" creationid="AbtdB" creationdate="20230820T100604Z">
+        <seg>打开乘员舱液氧箱 B 的加注活门。该活门连通动力装置 3 区的液氧总管。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Opens the water fill valve.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T111709Z" creationid="AbtdB" creationdate="20230820T111709Z">
+        <seg>打开水加注活门。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13506,6 +14906,78 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230607T040149Z" creationid="AbtdB" creationdate="20230607T040149Z">
         <seg>轨道空域进入许可</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Outer Equalization Valve A</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T113340Z" creationid="AbtdB" creationdate="20230818T113340Z">
+        <seg>外均压活门 A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Outer Equalization Valve B</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T113346Z" creationid="AbtdB" creationdate="20230818T113346Z">
+        <seg>外均压活门 B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Outer Equalization Valves</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T103707Z" creationid="AbtdB" creationdate="20230820T103707Z">
+        <seg>外均压活门</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Outer Equalization valves: OPEN</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T103712Z" creationid="AbtdB" creationdate="20230820T103712Z">
+        <seg>外均压活门：开启</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Outer Hatch A</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T113936Z" creationid="AbtdB" creationdate="20230818T113936Z">
+        <seg>外舱口 A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Outer Hatch B</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T113940Z" creationid="AbtdB" creationdate="20230818T113940Z">
+        <seg>外舱口 B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Outer Hatches</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T113854Z" creationid="AbtdB" creationdate="20230818T113559Z">
+        <seg>外舱口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Outer Hatches: OPEN</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T103949Z" creationid="AbtdB" creationdate="20230820T103949Z">
+        <seg>外舱口：开启</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Outer hatches: Closed</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T113855Z" creationid="AbtdB" creationdate="20230818T113605Z">
+        <seg>外舱口：关闭</seg>
       </tuv>
     </tu>
     <tu>
@@ -14030,6 +15502,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Port Water Source</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T111607Z" creationid="AbtdB" creationdate="20230820T111541Z">
+        <seg>港口供水</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Port Water Source: Off</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T112853Z" creationid="AbtdB" creationdate="20230820T112853Z">
+        <seg>港口供水：关断</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Port Water Source: On</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T111613Z" creationid="AbtdB" creationdate="20230820T111550Z">
+        <seg>港口供水：开启</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Port power switch to off</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230603T182403Z" creationid="AbtdB" creationdate="20230603T182403Z">
@@ -14098,6 +15594,22 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230615T180941Z" creationid="AbtdB" creationdate="20230615T180927Z">
         <seg>功耗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Power Plant Refueling in progress</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T100401Z" creationid="AbtdB" creationdate="20230820T100401Z">
+        <seg>动力装置加注中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Power Plant Tanks temperature regulation: ON</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T101809Z" creationid="AbtdB" creationdate="20230820T101809Z">
+        <seg>动力装置储箱温控：开启</seg>
       </tuv>
     </tu>
     <tu>
@@ -14742,6 +16254,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pressure Equalization valves: Closed</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T113306Z" creationid="AbtdB" creationdate="20230818T113306Z">
+        <seg>均压活门：关断</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pressurization Bleed Valve</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230616T131830Z" creationid="AbtdB" creationdate="20230616T131830Z">
@@ -14858,6 +16378,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T154358Z" creationid="AbtdB" creationdate="20230610T154358Z">
         <seg>增压引气活门：关断</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pressurized</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T103651Z" creationid="AbtdB" creationdate="20230820T103651Z">
+        <seg>增压完成</seg>
       </tuv>
     </tu>
     <tu>
@@ -16062,6 +17590,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Retracted</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T113944Z" creationid="AbtdB" creationdate="20230818T113944Z">
+        <seg>收回</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Retrieve Flare ETA</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230607T032128Z" creationid="AbtdB" creationdate="20230607T032027Z">
@@ -16894,6 +18430,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the active WPSU (A or B) as required. The|units are fully redundant, select one as per the|current maintenance strategy.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T112323Z" creationid="AbtdB" creationdate="20230820T112323Z">
+        <seg>按需激活 WPSU（A 或 B）。装置是全冗余的，依当前设备维护策略选用一台即可。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the appropriate mode for the chosen thrust|method: "MVR" if using the main engine, no |constraint if using the MRUs</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230608T031703Z" creationid="AbtdB" creationdate="20230606T160354Z">
@@ -17262,6 +18806,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Set the airflow as required, the stronger the more|coupling with the station's atmosphere (and |wear on the ventilation system).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T104735Z" creationid="AbtdB" creationdate="20230820T104735Z">
+        <seg>按需设定风量。风量越大与空间站大气混合越快（通风系统耗损也越快）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Set the attitude aim (pitch and yaw) to Approach.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230607T035638Z" creationid="AbtdB" creationdate="20230607T035638Z">
@@ -17590,6 +19142,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Set the ventilation as required. A higher flow |yields more atmosphere processing (and more|ARU wear).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T111436Z" creationid="AbtdB" creationdate="20230820T111436Z">
+        <seg>按需设定通风量。风量越大，大气处理速度越快（ARU 耗损也越快）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sets the Centralized Systems Monitoring to the|"docked" configuration.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230608T181109Z" creationid="AbtdB" creationdate="20230608T181109Z">
@@ -17802,6 +19362,22 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230615T152325Z" creationid="AbtdB" creationdate="20230615T152325Z">
         <seg>飞船测量自身状态矢量的精度受限于导航传感器，这导致从当前状态矢量出发的轨迹预测必然带有误差，且会随时间逐渐积累。使用 XPR 导航时应密切监控此类误差。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Single CMTCU</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T115207Z" creationid="AbtdB" creationdate="20230818T115207Z">
+        <seg>单 CMTCU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Single ESSPU</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T081434Z" creationid="AbtdB" creationdate="20230820T081434Z">
+        <seg>单 ESSPU</seg>
       </tuv>
     </tu>
     <tu>
@@ -18294,6 +19870,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Steady</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T081615Z" creationid="AbtdB" creationdate="20230820T081615Z">
+        <seg>稳定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Stop</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230606T164020Z" creationid="AbtdB" creationdate="20230606T164020Z">
@@ -18378,6 +19962,30 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230615T180230Z" creationid="AbtdB" creationdate="20230615T180230Z">
         <seg>供电汇流条电压</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Supply H2 to either manifold A or B. Hydrogen is|used by the ARUs in the CO2 methanation process|(Sabatier reactor).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T105828Z" creationid="AbtdB" creationdate="20230820T105654Z">
+        <seg>将氢气供应至 A 或 B 总管。ARU 将氢气用于二氧化碳甲烷化过程（萨巴蒂尔反应器）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Supply N2 to either manifold A or B. Nitrogen is|used by the PCUs to regulate the crew module|atmosphere's total pressure.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T105243Z" creationid="AbtdB" creationdate="20230820T105243Z">
+        <seg>将氮气供应至 A 或 B 总管。PCU 使用氮气调节乘员舱大气总压。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Supply O2 to either manifold A or B. Oxygen is |used by the PCUs to control the crew module|atmosphere's ppO2 (partial pressure of oxygen).|(Note: temporary, waiting for the WELUs)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T105436Z" creationid="AbtdB" creationdate="20230820T105436Z">
+        <seg>将氧气供应至 A 或 B 总管。PCU 使用氧气调节乘员舱 ppO2（氧分压）。|（注：临时设计，等 WELU 上线）</seg>
       </tuv>
     </tu>
     <tu>
@@ -18870,6 +20478,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Tank empty</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T113104Z" creationid="AbtdB" creationdate="20230820T113104Z">
+        <seg>水箱空</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tanks</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230608T174857Z" creationid="AbtdB" creationdate="20230608T174857Z">
@@ -18974,6 +20590,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Terminal Gates EXTENDED</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T102601Z" creationid="AbtdB" creationdate="20230820T102542Z">
+        <seg>廊桥伸出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Terminal gates: Retracted</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T102613Z" creationid="AbtdB" creationdate="20230818T113955Z">
+        <seg>廊桥收回</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Terminal gates: Rettracted</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230617T083624Z" creationid="AbtdB" creationdate="20230617T083531Z">
@@ -19046,6 +20678,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Atmosphere Revitalization Units are fully|redundant, select a single one for standard|operations. That selection should|match that of the H2 manifold.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T110634Z" creationid="AbtdB" creationdate="20230820T110624Z">
+        <seg>大气再生装置是全冗余的，标准运行时仅需选用一个。装置选择需匹配氢总管设定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Atmosphere Revitalization Units:|- ventilate the crew module's air|- regulate the atmosphere's temperature|- capture the carbon dioxide exhaled by the crew|- filter out particles and noxious gases|- maintain the relative humidity level</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T104450Z" creationid="AbtdB" creationdate="20230820T104357Z">
+        <seg>大气再生装置（ARU）：|- 提供乘员舱通风。|- 调节大气温度。|- 捕集乘员呼出的二氧化碳。|- 滤除颗粒物和有害气体。|- 维持相对湿度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The CMTCUs can dump their output heat to:|- the power plant's equipment heat pipe (and |then to the main radiators through the TCCUs)|- the crew module's radiator|If no other specific requirements apply, selecting|the sink of lowest temperature will optimize the|power consumption and wear.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T100231Z" creationid="AbtdB" creationdate="20230820T100231Z">
+        <seg>CMTCU 可将废热排至：|- 动力装置的设备区热管（随后通过 TCCU 排入主散热器）。|- 乘员舱散热器。|若没有特殊需求，建议选择温度最低的热沉，以优化能耗和设备耗损。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The CSN-F9 features a full set of flight planning|tools which are presented in the following |sections.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230607T073104Z" creationid="AbtdB" creationdate="20230607T073104Z">
@@ -19078,6 +20734,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Crew Module Thermal Units are fully |redundant. For normal operations activate one|single unit.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T081418Z" creationid="AbtdB" creationdate="20230820T081418Z">
+        <seg>乘员舱热控组件采用全冗余配置，正常运行时只需激活单个组件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The ESCU of section #1 should be connected to|the main bus.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T103242Z" creationid="AbtdB" creationdate="20230609T103242Z">
@@ -19098,6 +20762,22 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T103259Z" creationid="AbtdB" creationdate="20230609T103259Z">
         <seg>3 区 ESCU 应接入主汇流条。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The ESSential Power Units supply the crew |module's equipment. During standard operations|their batteries should remain fully charged.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T090458Z" creationid="AbtdB" creationdate="20230820T090458Z">
+        <seg>重要电源装置（ESSPU）为乘员舱设备供电。标准运行作业期间其电池应始终保持充满。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Energy Storage and Conditioning Units' |batteries (power plant) should always remain fully|charged and be used in emergency situations|only.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T095151Z" creationid="AbtdB" creationdate="20230820T090620Z">
+        <seg>（动力装置的）储能与调节组件（ESCU）的电池应始终保持充满，且仅在紧急情况下使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19294,6 +20974,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Pressure Control Units maintain the crew|module's:|- ppO2 (partial pressure of oxygen) to 21 kPa|- total pressure to the selected setting (defaut| 100 kPa)|The units are fully redundant, select a single one|for standard operations. That selection should|match that of the N2 and O2 manifolds.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T110627Z" creationid="AbtdB" creationdate="20230820T110520Z">
+        <seg>气压控制装置（PCU）维持乘员舱的：|- ppO2（氧分压）至 21 kPa。|- 总压至设定值（默认 100 kPa）。|装置是全冗余的，标准运行时仅需选用一个。装置选择需匹配氮气和氧气总管设定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The SMES should be charge so the ESCU can drive|the section while powering-up.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T071728Z" creationid="AbtdB" creationdate="20230610T071728Z">
@@ -19406,6 +21094,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The batteries of the ESSential Power Units should|be fully charged.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T102205Z" creationid="AbtdB" creationdate="20230818T045405Z">
+        <seg>各重要电源装置（ESSPU）的电池应完全充满。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The batteries should always remain fully charged|and be used in emergency situations only.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230608T083717Z" creationid="AbtdB" creationdate="20230608T083717Z">
@@ -19418,6 +21114,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230607T145249Z" creationid="AbtdB" creationdate="20230607T145152Z">
         <seg>方位角是指从轨道速度矢量（0°）顺时针转过的角度。离港点应位于【0° .. 90°】范围内。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The carbon dioxide exhaled by the crew is toxic|and must be removed from the module's|atmosphere. For standard operations use the|methanation process that has H2 reacting with|CO2 to yield water vapor and methane (CH4)|in the ARUs' Sabatier reactor. (The methane is|vented while the water can be recovered).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T111127Z" creationid="AbtdB" creationdate="20230820T111127Z">
+        <seg>乘员呼出的二氧化碳有害，必须从舱内清除。标准运行时建议使用甲烷化反应：氢气与二氧化碳在 ARU 的萨巴蒂尔反应器内反应，生成水蒸气和甲烷（CH4）（甲烷排出舱外，水则可以回收利用）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19450,6 +21154,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230607T145819Z" creationid="AbtdB" creationdate="20230607T145819Z">
         <seg>当前的飞行计划只含有一条在离港时间起始于离港点的自由落体轨道。添加离港程序以添加离开空间站的机动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The crew module's ESSential Power Units are fully |redundant. For normal operations activate one|single unit.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T081557Z" creationid="AbtdB" creationdate="20230820T081557Z">
+        <seg>乘员舱的重要电源装置（ESSPU）采用全冗余配置，正常运行时仅需激活单个装置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19614,6 +21326,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The gates are umbilicals extending from the|station's terminal and connecting to the ship's|airlocks. Once properly secured they pressurize|to provide a safe passageway.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T103009Z" creationid="AbtdB" creationdate="20230820T103009Z">
+        <seg>廊桥是从空间站的航站楼伸出，连接到飞船气闸的脐带。连接完成后，廊桥会加压，成为一条可安全通行的通道。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The heat exchangers [1-2] and [2-3] must be on to|maintain the section's temperature while the |TCCU is down.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T043342Z" creationid="AbtdB" creationdate="20230610T043342Z">
@@ -19662,6 +21382,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The inner hatches can now be closed to minimize|the atmosphere leakage.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T084820Z" creationid="AbtdB" creationdate="20230820T084741Z">
+        <seg>现在可以关闭内舱口，以减少大气泄漏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The jump explorer is an advanced low-level tool |that searches for and analyses jump solutions |given departure and/or destination bodies. It also|provides the associated virtual trajectory objects |necessary to plan jumps (jump-points are in |motion).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230607T160742Z" creationid="AbtdB" creationdate="20230607T091501Z">
@@ -19674,6 +21402,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230607T163506Z" creationid="AbtdB" creationdate="20230607T163407Z">
         <seg>【经济 / 正常 / 最大】推力|推力越大，比冲越低。因此，求解时，寻路器会从最小可用推力开始逐步递增推力。根据飞船动力装置的性能来调整这些参数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The liquid nitrogen and liquid oxygen only|partially fill their tank's available volume, with the |remainder containing their vapor in pressure|equilibrium. The resulting "saturating vapor |pressure" is strongly dependent on the|temperature, which is used to pressurize the|tank as required.|Table's [●] shortcut at the top left</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T101744Z" creationid="AbtdB" creationdate="20230820T101744Z">
+        <seg>液氮和液氧储箱设计为不会完全注满，储箱的剩余空间用于容纳饱和蒸汽。『饱和蒸汽压』取决于温度，因此系统使用温度来控制储箱压力。|表的左上角有开启全部温控的快捷方式 [●]。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20878,6 +22614,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Turn on the port's water supply.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T111623Z" creationid="AbtdB" creationdate="20230820T111557Z">
+        <seg>打开港口的水供应。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Turn on the remaining section</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T122414Z" creationid="AbtdB" creationdate="20230609T122414Z">
@@ -20890,6 +22634,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230615T161240Z" creationid="AbtdB" creationdate="20230615T160052Z">
         <seg>启动飞船的无线电通信组件。每个组件提供 4 个软件槽位，可同时在多个频道建立复数链路。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Turn the port's water supply off, this places the|station in water collection mode.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T112939Z" creationid="AbtdB" creationdate="20230820T112939Z">
+        <seg>关断港口供水，这会使空间站处于水回收模式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21090,6 +22842,22 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T112639Z" creationid="AbtdB" creationdate="20230609T112639Z">
         <seg>关断氧气供应（APU 关闭后不再需要氧气）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Turns on the Crew Module's Thermal Control|Unit A. The CMTCUs manage three heat pipes in|the crew module:|- equipment cooling to 288 K|- refrigeration systems to 244 K|- cryogenic systems to 22 K (used primarily to|cool the EM shield's superconducting coils).|For normal operations use either unit A or unit B,|for a faster settling time both can be operating in|parallel.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T095809Z" creationid="AbtdB" creationdate="20230820T095809Z">
+        <seg>开启乘员舱热控组件（CMTCU）A。CMTCU 管理乘员舱三套热管的温度：|- 设备冷却：288 K。|- 制冷系统：244 K。|- 低温系统：22 K（主要用于冷却电磁盾的超导线圈）。|正常运行时仅需使用 A 或 B 组件之一，如需更快达到目标温度也可同时运行二者。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Turns on the Crew Module's Thermal Control|Unit B. The CMTCUs manage three heat pipes in|the crew module:|- equipment cooling to 288 K|- refrigeration systems to 244 K|- cryogenic systems to 22 K (used primarily to|cool the EM shield's superconducting coils).|For normal operations use either unit A or unit B,|for a faster settling time both can be operating in|parallel.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T100323Z" creationid="AbtdB" creationdate="20230820T100323Z">
+        <seg>开启乘员舱热控组件（CMTCU）B。CMTCU 管理乘员舱三套热管的温度：|- 设备冷却：288 K。|- 制冷系统：244 K。|- 低温系统：22 K（主要用于冷却电磁盾的超导线圈）。|正常运行时仅需使用 A 或 B 组件之一，如需更快达到目标温度也可同时运行二者。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21398,6 +23166,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unlocked</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T102039Z" creationid="AbtdB" creationdate="20230820T102039Z">
+        <seg>解锁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unlocks the controls for the hatches and pressure|equalization valves.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T102143Z" creationid="AbtdB" creationdate="20230820T102143Z">
+        <seg>解锁各舱口和均压活门的控制面板。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Updated</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230604T034144Z" creationid="AbtdB" creationdate="20230604T034144Z">
@@ -21518,10 +23302,82 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>W P S U A: activate</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T111717Z" creationid="AbtdB" creationdate="20230820T111717Z">
+        <seg>W P S U A：激活</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>W P S U B: activate</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T112037Z" creationid="AbtdB" creationdate="20230820T112037Z">
+        <seg>W P S U B：激活</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>WPSU A</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T103515Z" creationid="AbtdB" creationdate="20230818T103515Z">
+        <seg>WPSU A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>WPSU A Tank</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T111939Z" creationid="AbtdB" creationdate="20230820T111939Z">
+        <seg>WPSU A 水箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>WPSU B</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T103520Z" creationid="AbtdB" creationdate="20230818T103520Z">
+        <seg>WPSU B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>WPSU B Tank</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T112110Z" creationid="AbtdB" creationdate="20230820T112110Z">
+        <seg>WPSU B 水箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>WPSUs</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T112158Z" creationid="AbtdB" creationdate="20230820T112158Z">
+        <seg>WPSU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Wait</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T033044Z" creationid="AbtdB" creationdate="20230609T033044Z">
         <seg>等待</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wait For Gates to Pressurize</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T103643Z" creationid="AbtdB" creationdate="20230820T103622Z">
+        <seg>等待廊桥增压</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wait For Pressures To Equalize</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T103347Z" creationid="AbtdB" creationdate="20230820T103338Z">
+        <seg>等待压力平衡</seg>
       </tuv>
     </tu>
     <tu>
@@ -21538,6 +23394,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230603T191435Z" creationid="AbtdB" creationdate="20230603T191435Z">
         <seg>等待 OTC 下发反应堆启动许可。许可应在距空间站约 80 km 时下发。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wait for Pressures to Equalize</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T103859Z" creationid="AbtdB" creationdate="20230820T103859Z">
+        <seg>等待压力平衡</seg>
       </tuv>
     </tu>
     <tu>
@@ -21654,6 +23518,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Wait for the PCUs and ARUs control processes to|stabilize to their steady state. This might take a |while, increase the airflow if necessary.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T084543Z" creationid="AbtdB" creationdate="20230820T084515Z">
+        <seg>等待 PCU 和 ARU 调节大气至稳定状态。这可能需要一些时间，你可按需增大气流量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Wait for the SMES superconducting coils to get|to their operating temperature &lt; 45 K. |The charging process will start automatically |(Auto mode). You can use time acceleration</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230608T180311Z" creationid="AbtdB" creationdate="20230608T180311Z">
@@ -21686,6 +23558,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Wait for the crew module atmosphere to settle.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T083917Z" creationid="AbtdB" creationdate="20230820T083917Z">
+        <seg>等待乘员舱大气稳定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Wait for the departure burn to complete (you can|use the time acceleration).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230603T192952Z" creationid="AbtdB" creationdate="20230603T192952Z">
@@ -21698,6 +23578,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230603T191052Z" creationid="AbtdB" creationdate="20230603T191046Z">
         <seg>等待离港许可</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wait for the gates to pressurize</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T103647Z" creationid="AbtdB" creationdate="20230820T103626Z">
+        <seg>等待廊桥增压</seg>
       </tuv>
     </tu>
     <tu>
@@ -21730,6 +23618,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T084002Z" creationid="AbtdB" creationdate="20230610T084002Z">
         <seg>等待增压气体储箱加注（你可使用时间加速）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wait for the pressures to equalize</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T103356Z" creationid="AbtdB" creationdate="20230820T103356Z">
+        <seg>等待压力平衡</seg>
       </tuv>
     </tu>
     <tu>
@@ -21790,6 +23686,38 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Wait for water tank A to empty</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T113052Z" creationid="AbtdB" creationdate="20230820T113052Z">
+        <seg>等待水箱 A 排空</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wait for water tank A to fill</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T112008Z" creationid="AbtdB" creationdate="20230820T112008Z">
+        <seg>等待水箱 A 注满</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wait for water tank B to empty</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T113116Z" creationid="AbtdB" creationdate="20230820T113116Z">
+        <seg>等待水箱 B 排空</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wait for water tank B to fill</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T112115Z" creationid="AbtdB" creationdate="20230820T112115Z">
+        <seg>等待水箱 B 注满</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Waiting for OTC clearance</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230603T192833Z" creationid="AbtdB" creationdate="20230603T192833Z">
@@ -21834,6 +23762,30 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230603T165357Z" creationid="AbtdB" creationdate="20230603T132240Z">
         <seg>从完全关闭状态唤醒飞船各系统，或在前一次飞行后加油。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Water recycling settings:|- APU: pure water from the power plant's APUs|(fuel cells). More commonly used for emergency|refills.|- ARU: water extracted from the crew module's |atmosphere (primarily crew breathing and |perspiration)|- WMU: treated and purified waste water |(primatily hygiene water and urine)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T104114Z" creationid="AbtdB" creationdate="20230818T104114Z">
+        <seg>水再生设置：|- APU：动力装置的 APU（燃料电池）提供的纯净水。一般用于紧急补水。|- ARU：从乘员舱大气中提取的水（主要来自乘员呼吸和排汗）。|- WMU：经处理净化后的废水（主要来自卫生用水和尿液）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Water tank A full</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T112032Z" creationid="AbtdB" creationdate="20230820T112032Z">
+        <seg>水箱 A 满</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Water tank B full</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T112126Z" creationid="AbtdB" creationdate="20230820T112126Z">
+        <seg>水箱 B 满</seg>
       </tuv>
     </tu>
     <tu>
@@ -21918,6 +23870,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When open the inner equalization valves connect|the crew module's main habitat and the airlocks.|To be able to open the corresponding hatch, the |pressure differential must be less than 200 Pa.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T103821Z" creationid="AbtdB" creationdate="20230820T103304Z">
+        <seg>内均压活门开启时，乘员舱的主居住区与气闸舱相连通。两舱的气压差小于 200 Pa 时舱口才能打开。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When open the outer equalization valves connect|the airlocks to the station's gates. To be able to|open the outer hatch, the pressure differential|must be less than 200 Pa.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T103853Z" creationid="AbtdB" creationdate="20230820T103853Z">
+        <seg>外均压活门开启时，气闸舱与空间站廊桥相联通。二者的气压差小于 200 Pa 时外舱口才能打开。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When plugged into an external power grid it is |normal to connect all the sections and recharge |all SMESs simultaneously. |NB: the notification is muted by the "Docked |Inhibit" CSM switch.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230616T143914Z" creationid="AbtdB" creationdate="20230616T135620Z">
@@ -21970,6 +23938,22 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230607T132843Z" creationid="AbtdB" creationdate="20230607T132843Z">
         <seg>将光标置于轨迹上，然后单击编辑器面板上的光标菜单按钮【☰】。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With the outer valves open the module's pressure|will equal that of the station's.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T103943Z" creationid="AbtdB" creationdate="20230820T103943Z">
+        <seg>外均压活门开启后，乘员舱的气压会与空间站相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With the valves open the air pressure will settle|at the same value across the whole module.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T103521Z" creationid="AbtdB" creationdate="20230820T103521Z">
+        <seg>均压活门开启后，整个乘员舱的气压会稳定在同一水平。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22690,6 +24674,22 @@
       </tuv>
       <tuv lang="zh-CN" changeid="AbtdB" changedate="20230608T040258Z" creationid="AbtdB" creationdate="20230608T040258Z">
         <seg>lan → 升交点经度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>set</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T115234Z" creationid="AbtdB" creationdate="20230818T115234Z">
+        <seg>设定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>set and checked</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T111349Z" creationid="AbtdB" creationdate="20230820T111349Z">
+        <seg>设定并检查</seg>
       </tuv>
     </tu>
     <tu>

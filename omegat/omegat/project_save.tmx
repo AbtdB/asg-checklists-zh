@@ -2672,24 +2672,24 @@
       <tuv lang="en-US">
         <seg>Both the LH2 and LO2 tanks pressurant drain |valves of section 1 must be closed. This prevents|the pressurant from venting into space.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T151403Z" creationid="AbtdB" creationdate="20230610T151304Z">
-        <seg>必须关断 1 区液氢和液氧储箱增压排放活门，以免增压气体排入太空。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154805Z" creationid="AbtdB" creationdate="20230610T151304Z">
+        <seg>必须关断 1 区液氢和液氧贮箱增压排放活门，以免增压气体排入太空。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Both the LH2 and LO2 tanks pressurant drain |valves of section 2 must be closed. This prevents|the pressurant from venting into space.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T153019Z" creationid="AbtdB" creationdate="20230610T153019Z">
-        <seg>必须关断 2 区液氢和液氧储箱增压排放活门，以免增压气体排入太空。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154805Z" creationid="AbtdB" creationdate="20230610T153019Z">
+        <seg>必须关断 2 区液氢和液氧贮箱增压排放活门，以免增压气体排入太空。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Both the LH2 and LO2 tanks pressurant drain |valves of section 3 must be closed. This prevents|the pressurant from venting into space.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T153231Z" creationid="AbtdB" creationdate="20230610T153231Z">
-        <seg>必须关断 3 区液氢和液氧储箱增压排放活门，以免增压气体排入太空。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154805Z" creationid="AbtdB" creationdate="20230610T153231Z">
+        <seg>必须关断 3 区液氢和液氧贮箱增压排放活门，以免增压气体排入太空。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2992,8 +2992,8 @@
       <tuv lang="en-US">
         <seg>CM LN2 Quantity</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T045756Z" creationid="AbtdB" creationdate="20230818T045756Z">
-        <seg>乘员舱液氮储量</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T161655Z" creationid="AbtdB" creationdate="20230818T045756Z">
+        <seg>乘员舱液氮余量</seg>
       </tuv>
     </tu>
     <tu>
@@ -3032,8 +3032,8 @@
       <tuv lang="en-US">
         <seg>CM LO2 Quantity</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T045920Z" creationid="AbtdB" creationdate="20230818T045920Z">
-        <seg>乘员舱液氧储量</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T161655Z" creationid="AbtdB" creationdate="20230818T045920Z">
+        <seg>乘员舱液氧余量</seg>
       </tuv>
     </tu>
     <tu>
@@ -3104,8 +3104,8 @@
       <tuv lang="en-US">
         <seg>CM Tanks T° Regulation</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T101155Z" creationid="AbtdB" creationdate="20230820T101155Z">
-        <seg>乘员舱储箱温控</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T160039Z" creationid="AbtdB" creationdate="20230820T101155Z">
+        <seg>乘员舱贮箱温控</seg>
       </tuv>
     </tu>
     <tu>
@@ -3152,8 +3152,8 @@
       <tuv lang="en-US">
         <seg>CM Water Quantity</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T050018Z" creationid="AbtdB" creationdate="20230818T050018Z">
-        <seg>乘员舱水储量</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T161655Z" creationid="AbtdB" creationdate="20230818T050018Z">
+        <seg>乘员舱水余量</seg>
       </tuv>
     </tu>
     <tu>
@@ -3408,16 +3408,16 @@
       <tuv lang="en-US">
         <seg>Check the LH2 quantity.|Follow the "Cryo-Fluids Refueling Checklist" if|needed (see below)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230608T173309Z" creationid="AbtdB" creationdate="20230603T180645Z">
-        <seg>检查液氢储量。|按需执行『低温流体加注检查单』（见下文）。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T161655Z" creationid="AbtdB" creationdate="20230603T180645Z">
+        <seg>检查液氢余量。|按需执行『低温流体加注检查单』（见下文）。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Check the LO2 quantity.|Follow the "Cryo-Fluids Refueling Checklist" if|needed (see below)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230608T173414Z" creationid="AbtdB" creationdate="20230603T180707Z">
-        <seg>检查液氧储量。|按需执行『低温流体加注检查单』（见下文）。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T161655Z" creationid="AbtdB" creationdate="20230603T180707Z">
+        <seg>检查液氧余量。|按需执行『低温流体加注检查单』（见下文）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3432,32 +3432,32 @@
       <tuv lang="en-US">
         <seg>Check the crew module tanks' liquid nitrogen|quantity.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T050137Z" creationid="AbtdB" creationdate="20230818T045910Z">
-        <seg>检查乘员舱液氮储量。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T161655Z" creationid="AbtdB" creationdate="20230818T045910Z">
+        <seg>检查乘员舱液氮余量。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Check the crew module tanks' liquid oxygen|quantity.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T050152Z" creationid="AbtdB" creationdate="20230818T045937Z">
-        <seg>检查乘员舱液氧储量。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T161655Z" creationid="AbtdB" creationdate="20230818T045937Z">
+        <seg>检查乘员舱液氧余量。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Check the crew module tanks' water quantity.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T050203Z" creationid="AbtdB" creationdate="20230818T050040Z">
-        <seg>检查乘员舱水储量。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T161655Z" creationid="AbtdB" creationdate="20230818T050040Z">
+        <seg>检查乘员舱水余量。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Check the deuterium quantity.|Follow the "Fusion Fuels Refueling Checklist" if|needed (see below)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230603T180551Z" creationid="AbtdB" creationdate="20230603T175831Z">
-        <seg>检查氘储量。|按需执行『聚变燃料加注检查单』（见下文）。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T161655Z" creationid="AbtdB" creationdate="20230603T175831Z">
+        <seg>检查氘余量。|按需执行『聚变燃料加注检查单』（见下文）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3488,8 +3488,8 @@
       <tuv lang="en-US">
         <seg>Check the helium-3 quantity.|Follow the "Fusion Fuels Refueling Checklist" if|needed (see below)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230603T180045Z" creationid="AbtdB" creationdate="20230603T180045Z">
-        <seg>检查氦 3 储量。|按需执行『聚变燃料加注检查单』（见下文）</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T161655Z" creationid="AbtdB" creationdate="20230603T180045Z">
+        <seg>检查氦 3 余量。|按需执行『聚变燃料加注检查单』（见下文）</seg>
       </tuv>
     </tu>
     <tu>
@@ -3536,8 +3536,8 @@
       <tuv lang="en-US">
         <seg>Check the pressurant quantity.|Follow the "Cryo-Fluids Refueling Checklist" if|needed (see below)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230603T180519Z" creationid="AbtdB" creationdate="20230603T180519Z">
-        <seg>检查增压气体储量。|按需执行『低温流体加注检查单』（见下文）。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T161655Z" creationid="AbtdB" creationdate="20230603T180519Z">
+        <seg>检查增压气体余量。|按需执行『低温流体加注检查单』（见下文）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3944,64 +3944,64 @@
       <tuv lang="en-US">
         <seg>Closes the LH2 tank valve #1</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T155427Z" creationid="AbtdB" creationdate="20230610T154126Z">
-        <seg>关断液氢储箱活门 #1。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154237Z" creationid="AbtdB" creationdate="20230610T154126Z">
+        <seg>关断液氢贮箱活门 #1。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Closes the LH2 tank valve #2</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T155432Z" creationid="AbtdB" creationdate="20230610T154236Z">
-        <seg>关断液氢储箱活门 #2。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154237Z" creationid="AbtdB" creationdate="20230610T154236Z">
+        <seg>关断液氢贮箱活门 #2。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Closes the LH2 tank valve #3</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T155438Z" creationid="AbtdB" creationdate="20230610T154318Z">
-        <seg>关断液氢储箱活门 #3。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154237Z" creationid="AbtdB" creationdate="20230610T154318Z">
+        <seg>关断液氢贮箱活门 #3。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Closes the LH2 tanks valves.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T155420Z" creationid="AbtdB" creationdate="20230610T154437Z">
-        <seg>关断液氢储箱活门。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154237Z" creationid="AbtdB" creationdate="20230610T154437Z">
+        <seg>关断液氢贮箱活门。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Closes the LO2 tank valve #1</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T155602Z" creationid="AbtdB" creationdate="20230610T155602Z">
-        <seg>关断液氧储箱活门 #1。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154805Z" creationid="AbtdB" creationdate="20230610T155602Z">
+        <seg>关断液氧贮箱活门 #1。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Closes the LO2 tank valve #2</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T155610Z" creationid="AbtdB" creationdate="20230610T155610Z">
-        <seg>关断液氧储箱活门 #2。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154805Z" creationid="AbtdB" creationdate="20230610T155610Z">
+        <seg>关断液氧贮箱活门 #2。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Closes the LO2 tank valve #3</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T155621Z" creationid="AbtdB" creationdate="20230610T155621Z">
-        <seg>关断液氧储箱活门 #3。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154805Z" creationid="AbtdB" creationdate="20230610T155621Z">
+        <seg>关断液氧贮箱活门 #3。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Closes the LO2 tanks valves.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T155547Z" creationid="AbtdB" creationdate="20230610T155547Z">
-        <seg>关断液氧储箱活门。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154805Z" creationid="AbtdB" creationdate="20230610T155547Z">
+        <seg>关断液氧贮箱活门。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4656,8 +4656,8 @@
       <tuv lang="en-US">
         <seg>Connects the tanks' pressurization circuit to|the pressurant manifold and station.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T080959Z" creationid="AbtdB" creationdate="20230610T080959Z">
-        <seg>将储箱增压回路通过增压气体总管连至空间站。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T160854Z" creationid="AbtdB" creationdate="20230610T080959Z">
+        <seg>将贮箱增压回路通过增压气体总管连至空间站。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4864,8 +4864,8 @@
       <tuv lang="en-US">
         <seg>Crew Module L N2 Quantity</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T045829Z" creationid="AbtdB" creationdate="20230818T045829Z">
-        <seg>乘员舱液氮储量</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T161655Z" creationid="AbtdB" creationdate="20230818T045829Z">
+        <seg>乘员舱液氮余量</seg>
       </tuv>
     </tu>
     <tu>
@@ -5032,8 +5032,8 @@
       <tuv lang="en-US">
         <seg>Crew Module tanks temperature regulation: ON</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T101201Z" creationid="AbtdB" creationdate="20230820T101201Z">
-        <seg>乘员舱储箱温控：开启</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T160044Z" creationid="AbtdB" creationdate="20230820T101201Z">
+        <seg>乘员舱贮箱温控：开启</seg>
       </tuv>
     </tu>
     <tu>
@@ -5112,8 +5112,8 @@
       <tuv lang="en-US">
         <seg>Crew module L O2 Quantity</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T045929Z" creationid="AbtdB" creationdate="20230818T045929Z">
-        <seg>乘员舱液氧储量</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T161655Z" creationid="AbtdB" creationdate="20230818T045929Z">
+        <seg>乘员舱液氧余量</seg>
       </tuv>
     </tu>
     <tu>
@@ -5144,8 +5144,8 @@
       <tuv lang="en-US">
         <seg>Crew module Water Quantity</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230818T050025Z" creationid="AbtdB" creationdate="20230818T050025Z">
-        <seg>乘员舱水储量</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T161655Z" creationid="AbtdB" creationdate="20230818T050025Z">
+        <seg>乘员舱水余量</seg>
       </tuv>
     </tu>
     <tu>
@@ -5248,8 +5248,8 @@
       <tuv lang="en-US">
         <seg>Cryo-Fluids Refueling - CSN 1.0.0|Refueling of the pressurant, liquid hydrogen (LH2)|and liquid oxygen (LO2) tanks.|Expected initial conditions:|- electrical and thermal systems up and running</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T080324Z" creationid="AbtdB" creationdate="20230610T080324Z">
-        <seg>低温流体加注 - CSN 1.0.0|加注增压气体、液氢（LH2）和液氧（LO2）储箱。|预期初始条件：|- 电气与热控系统上电并运行。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T160854Z" creationid="AbtdB" creationdate="20230610T080324Z">
+        <seg>低温流体加注 - CSN 1.0.0|加注增压气瓶、液氢（LH2）和液氧（LO2）贮箱。|预期初始条件：|- 电气与热控系统上电并运行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5576,40 +5576,40 @@
       <tuv lang="en-US">
         <seg>D2 Tank #1</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T031816Z" creationid="AbtdB" creationdate="20230609T031816Z">
-        <seg>氘气储箱 #1</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T155339Z" creationid="AbtdB" creationdate="20230609T031816Z">
+        <seg>氘气瓶 #1</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>D2 Tank #2</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T031829Z" creationid="AbtdB" creationdate="20230609T031829Z">
-        <seg>氘气储箱 #2</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T155339Z" creationid="AbtdB" creationdate="20230609T031829Z">
+        <seg>氘气瓶 #2</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>D2 Tank #3</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T031836Z" creationid="AbtdB" creationdate="20230609T031836Z">
-        <seg>氘气储箱 #3</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T155339Z" creationid="AbtdB" creationdate="20230609T031836Z">
+        <seg>氘气瓶 #3</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>D2 Tanks</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T110805Z" creationid="AbtdB" creationdate="20230609T110805Z">
-        <seg>氘气储箱</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T155339Z" creationid="AbtdB" creationdate="20230609T110805Z">
+        <seg>氘气瓶</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>D2 Tanks Pressure</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T110727Z" creationid="AbtdB" creationdate="20230609T110727Z">
-        <seg>氘气储箱压力</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T155339Z" creationid="AbtdB" creationdate="20230609T110727Z">
+        <seg>氘气瓶压力</seg>
       </tuv>
     </tu>
     <tu>
@@ -6008,8 +6008,8 @@
       <tuv lang="en-US">
         <seg>Deuterium Quantity</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230603T175819Z" creationid="AbtdB" creationdate="20230603T175819Z">
-        <seg>氘储量</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T161655Z" creationid="AbtdB" creationdate="20230603T175819Z">
+        <seg>氘余量</seg>
       </tuv>
     </tu>
     <tu>
@@ -6080,8 +6080,8 @@
       <tuv lang="en-US">
         <seg>Deuterium and helium-3 tanks no flow</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T111513Z" creationid="AbtdB" creationdate="20230609T111513Z">
-        <seg>氘与氦3 储箱无流量</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T155128Z" creationid="AbtdB" creationdate="20230609T111513Z">
+        <seg>氘与氦3 气瓶无流量</seg>
       </tuv>
     </tu>
     <tu>
@@ -6104,8 +6104,8 @@
       <tuv lang="en-US">
         <seg>Deuterium pressure nominal</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T110731Z" creationid="AbtdB" creationdate="20230609T110731Z">
-        <seg>氘储箱压力正常</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T155152Z" creationid="AbtdB" creationdate="20230609T110731Z">
+        <seg>氘气瓶压力正常</seg>
       </tuv>
     </tu>
     <tu>
@@ -6120,32 +6120,32 @@
       <tuv lang="en-US">
         <seg>Deuterium tank 1 maintenance preparation</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T031827Z" creationid="AbtdB" creationdate="20230609T031827Z">
-        <seg>氘储箱 1 维修准备</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T155152Z" creationid="AbtdB" creationdate="20230609T031827Z">
+        <seg>氘气瓶 1 维修准备</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Deuterium tank 2 maintenance preparation</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T031834Z" creationid="AbtdB" creationdate="20230609T031834Z">
-        <seg>氘储箱 2 维修准备</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T155152Z" creationid="AbtdB" creationdate="20230609T031834Z">
+        <seg>氘气瓶 2 维修准备</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Deuterium tank 3 maintenance preparation</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T031840Z" creationid="AbtdB" creationdate="20230609T031840Z">
-        <seg>氘储箱 3 维修准备</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T155152Z" creationid="AbtdB" creationdate="20230609T031840Z">
+        <seg>氘气瓶 3 维修准备</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Deuterium tanks no flow</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T110807Z" creationid="AbtdB" creationdate="20230609T110807Z">
-        <seg>氘储箱无流量</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T155152Z" creationid="AbtdB" creationdate="20230609T110807Z">
+        <seg>氘气瓶无流量</seg>
       </tuv>
     </tu>
     <tu>
@@ -7512,8 +7512,8 @@
       <tuv lang="en-US">
         <seg>Engage the pressurant pumps to fill the tanks to|the desired pressure (default = 12 MPa). The|pumps automatically disengage when reaching|the target pressure.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230608T174745Z" creationid="AbtdB" creationdate="20230608T174745Z">
-        <seg>接通增压气体泵，将储箱加注至设定压力（默认 = 12 MPa）。达到目标压力时，泵会自动停止。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T155454Z" creationid="AbtdB" creationdate="20230608T174745Z">
+        <seg>接通增压气体泵，将气瓶加注至设定压力（默认 = 12 MPa）。达到目标压力时，泵会自动停止。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8336,8 +8336,8 @@
       <tuv lang="en-US">
         <seg>Fill the D2 (deuterium) and He-3 (helium-3) tanks</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230608T173930Z" creationid="AbtdB" creationdate="20230608T113827Z">
-        <seg>加注 D2（氘气）和 He-3（氦 3）储箱。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T155441Z" creationid="AbtdB" creationdate="20230608T113827Z">
+        <seg>加注 D2（氘气）和 He-3（氦 3）气瓶。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8840,16 +8840,16 @@
       <tuv lang="en-US">
         <seg>Fusion Fuels Refueling - CSN 0.8.0|Helium-3 and deuterium tanks refill.|Expected initial conditions:|- electrical and thermal systems up and running</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T110436Z" creationid="AbtdB" creationdate="20230609T110436Z">
-        <seg>聚变燃料加注 - CSN 0.8.0|加注氦 3 和氘储箱。|预期初始条件：|- 电气和热控系统上电并运行。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T155152Z" creationid="AbtdB" creationdate="20230609T110436Z">
+        <seg>聚变燃料加注 - CSN 0.8.0|加注氦 3 和氘气瓶。|预期初始条件：|- 电气和热控系统上电并运行。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Fusion Fuels Refueling - CSN 1.0.0|Helium-3 and deuterium tanks purging.|Expected initial conditions:|- electrical and thermal systems up and running</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230612T154152Z" creationid="AbtdB" creationdate="20230609T111347Z">
-        <seg>聚变燃料清除 - CSN 1.0.0|排空氦 3 与氘储箱。|预期初始条件：|- 电气与热控系统上电并运行。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T155152Z" creationid="AbtdB" creationdate="20230609T111347Z">
+        <seg>聚变燃料清除 - CSN 1.0.0|排空氦 3 与氘气瓶。|预期初始条件：|- 电气与热控系统上电并运行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9400,8 +9400,8 @@
       <tuv lang="en-US">
         <seg>H2 Supply #1 - CSN 0.8.0|Hydrogen circuit section 1 setup|Expected initial conditions:|- electrical system powered up|- thermal system stable|- tanks full</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T105831Z" creationid="AbtdB" creationdate="20230610T105831Z">
-        <seg>氢气供应 #1 - CSN 0.8.0|1 区氢气回路设置。|预期初始条件：|- 电气系统上电。|- 热控系统稳定。|- 储箱为满。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T160854Z" creationid="AbtdB" creationdate="20230610T105831Z">
+        <seg>氢气供应 #1 - CSN 0.8.0|1 区氢气回路设置。|预期初始条件：|- 电气系统上电。|- 热控系统稳定。|- 贮箱为满。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9432,8 +9432,8 @@
       <tuv lang="en-US">
         <seg>H2 Supply #2 - CSN 0.8.0|Hydrogen circuit section 2 setup|Expected initial conditions:|- electrical system powered up|- thermal system stable|- tanks full</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T153009Z" creationid="AbtdB" creationdate="20230610T153009Z">
-        <seg>氢气供应 #2 - CSN 0.8.0|2 区氢气回路设置。|预期初始条件：|- 电气系统上电。|- 热控系统稳定。|- 储箱为满。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T160854Z" creationid="AbtdB" creationdate="20230610T153009Z">
+        <seg>氢气供应 #2 - CSN 0.8.0|2 区氢气回路设置。|预期初始条件：|- 电气系统上电。|- 热控系统稳定。|- 贮箱为满。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9464,8 +9464,8 @@
       <tuv lang="en-US">
         <seg>H2 Supply #3 - CSN 0.8.0|Hydrogen circuit section 3 setup|Expected initial conditions:|- electrical system powered up|- thermal system stable|- tanks full</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T153223Z" creationid="AbtdB" creationdate="20230610T153223Z">
-        <seg>氢气供应 #3 - CSN 0.8.0|3 区氢气回路设置。|预期初始条件：|- 电气系统上电。|- 热控系统稳定。|- 储箱为满。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T160854Z" creationid="AbtdB" creationdate="20230610T153223Z">
+        <seg>氢气供应 #3 - CSN 0.8.0|3 区氢气回路设置。|预期初始条件：|- 电气系统上电。|- 热控系统稳定。|- 贮箱为满。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9864,40 +9864,40 @@
       <tuv lang="en-US">
         <seg>He-3 Tank #1</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T031313Z" creationid="AbtdB" creationdate="20230609T031313Z">
-        <seg>氦 3 储箱 #1</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T155030Z" creationid="AbtdB" creationdate="20230609T031313Z">
+        <seg>氦 3 气瓶 #1</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>He-3 Tank #2</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T031750Z" creationid="AbtdB" creationdate="20230609T031750Z">
-        <seg>氦 3 储箱 #2</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T155030Z" creationid="AbtdB" creationdate="20230609T031750Z">
+        <seg>氦 3 气瓶 #2</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>He-3 Tank #3</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T031802Z" creationid="AbtdB" creationdate="20230609T031802Z">
-        <seg>氦 3 储箱 #3</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T155030Z" creationid="AbtdB" creationdate="20230609T031802Z">
+        <seg>氦 3 气瓶 #3</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>He-3 Tanks</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T110813Z" creationid="AbtdB" creationdate="20230609T110813Z">
-        <seg>氦 3 储箱</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T155030Z" creationid="AbtdB" creationdate="20230609T110813Z">
+        <seg>氦 3 气瓶</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>He-3 Tanks Pressure</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T110751Z" creationid="AbtdB" creationdate="20230609T110751Z">
-        <seg>氦 3 储箱压力</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T155030Z" creationid="AbtdB" creationdate="20230609T110751Z">
+        <seg>氦 3 气瓶压力</seg>
       </tuv>
     </tu>
     <tu>
@@ -10064,8 +10064,8 @@
       <tuv lang="en-US">
         <seg>Helium-3 Quantity</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230603T175955Z" creationid="AbtdB" creationdate="20230603T175955Z">
-        <seg>氦 3 储量</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T161655Z" creationid="AbtdB" creationdate="20230603T175955Z">
+        <seg>氦 3 余量</seg>
       </tuv>
     </tu>
     <tu>
@@ -10136,40 +10136,40 @@
       <tuv lang="en-US">
         <seg>Helium-3 tank 1 maintenance preparation</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T031410Z" creationid="AbtdB" creationdate="20230609T031410Z">
-        <seg>氦3 储箱 1 维修准备</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T155128Z" creationid="AbtdB" creationdate="20230609T031410Z">
+        <seg>氦3 气瓶 1 维修准备</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Helium-3 tank 2 maintenance preparation</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T031758Z" creationid="AbtdB" creationdate="20230609T031758Z">
-        <seg>氦3 储箱 2 维修准备</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T155128Z" creationid="AbtdB" creationdate="20230609T031758Z">
+        <seg>氦3 气瓶 2 维修准备</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Helium-3 tank 3 maintenance preparation</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T031811Z" creationid="AbtdB" creationdate="20230609T031811Z">
-        <seg>氦3 储箱 3 维修准备</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T155128Z" creationid="AbtdB" creationdate="20230609T031811Z">
+        <seg>氦3 气瓶 3 维修准备</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Helium-3 tanks no flow</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T110814Z" creationid="AbtdB" creationdate="20230609T110814Z">
-        <seg>氦3 储箱无流量</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T155128Z" creationid="AbtdB" creationdate="20230609T110814Z">
+        <seg>氦3 气瓶无流量</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Helium-3 tanks pressure nominal</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T110754Z" creationid="AbtdB" creationdate="20230609T110754Z">
-        <seg>氦3 储箱压力正常</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T155128Z" creationid="AbtdB" creationdate="20230609T110754Z">
+        <seg>氦3 气瓶压力正常</seg>
       </tuv>
     </tu>
     <tu>
@@ -10656,8 +10656,8 @@
       <tuv lang="en-US">
         <seg>If the device is a compromised container (ex |leaking tank) consider transferring its contents|towards redudant systems.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230616T092441Z" creationid="AbtdB" creationdate="20230616T092441Z">
-        <seg>如果设备是一受损容器（例：储箱泄露），考虑将其内容物转移到冗余系统中。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T160854Z" creationid="AbtdB" creationdate="20230616T092441Z">
+        <seg>如果设备是一受损容器（例：贮箱泄露），考虑将其内容物转移到冗余系统中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10704,48 +10704,48 @@
       <tuv lang="en-US">
         <seg>If the tank or its outlet valve are planned for|maintenance, its contents should be purged.|See Fusion Fuels Purge below.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T032339Z" creationid="AbtdB" creationdate="20230609T031743Z">
-        <seg>若计划维修储箱或储箱出口活门，必须清除储箱内容物。参见下文聚变燃料清除。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T160258Z" creationid="AbtdB" creationdate="20230609T031743Z">
+        <seg>若计划维修气瓶或气瓶出口活门，必须清除所贮气体。参见下文聚变燃料清除。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>If the tank or its outlet valve are planned for|maintenance, its contents should be purged.|See LH2 Purge below.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T032611Z" creationid="AbtdB" creationdate="20230609T032611Z">
-        <seg>若计划维修储箱或储箱出口活门，必须清除储箱内容物。参见下文液氢清除。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T160854Z" creationid="AbtdB" creationdate="20230609T032611Z">
+        <seg>若计划维修贮箱或贮箱出口活门，必须清除贮箱内容物。参见下文液氢清除。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>If the tank or its outlet valve are planned for|maintenance, its contents should be purged.|See LO2 Purge below.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T032659Z" creationid="AbtdB" creationdate="20230609T032659Z">
-        <seg>若计划维修储箱或储箱出口活门，必须清除储箱内容物。参见下文液氧清除。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T160854Z" creationid="AbtdB" creationdate="20230609T032659Z">
+        <seg>若计划维修贮箱或贮箱出口活门，必须清除贮箱内容物。参见下文液氧清除。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>If the tank or its outlet valve are planned for|maintenance, its contents should be purged.|See Pressurant Purge below.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T032504Z" creationid="AbtdB" creationdate="20230609T032504Z">
-        <seg>若计划维修储箱或储箱出口活门，必须清除储箱内容物。参见下文增压气体清除。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T160313Z" creationid="AbtdB" creationdate="20230609T032504Z">
+        <seg>若计划维修气瓶或气瓶出口活门，必须清除所贮气体。参见下文增压气体清除。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>If the temperature of the gas significantly exceeds|its nominal value (100K by default), it it necessary|to empty the tanks prior to refueling.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T110558Z" creationid="AbtdB" creationdate="20230609T110558Z">
-        <seg>若气体温度高于标称值（默认 100K）过多，则必须在加注前清空储箱。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T160345Z" creationid="AbtdB" creationdate="20230609T110558Z">
+        <seg>若气体温度高于标称值（默认 100K）过多，则必须在加注前清空气瓶。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>If the temperature of the pressurant significantly|exceeds its nominal value (100K by default), it it|necessary to empty the tanks prior to refueling.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T082807Z" creationid="AbtdB" creationdate="20230610T082807Z">
-        <seg>若增压气体温度高于标称值（默认 100K）过多，则必须在加注前清空储箱。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T160604Z" creationid="AbtdB" creationdate="20230610T082807Z">
+        <seg>若增压气体温度高于标称值（默认 100K）过多，则必须在加注前清空气瓶。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11456,8 +11456,8 @@
       <tuv lang="en-US">
         <seg>L O2 Quantity</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230603T180652Z" creationid="AbtdB" creationdate="20230603T180652Z">
-        <seg>液氧储量</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T161655Z" creationid="AbtdB" creationdate="20230603T180652Z">
+        <seg>液氧余量</seg>
       </tuv>
     </tu>
     <tu>
@@ -11536,8 +11536,8 @@
       <tuv lang="en-US">
         <seg>L O2 tank 1 maintenance preparation</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T032650Z" creationid="AbtdB" creationdate="20230609T032650Z">
-        <seg>液氧储箱 1 维修准备</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154805Z" creationid="AbtdB" creationdate="20230609T032650Z">
+        <seg>液氧贮箱 1 维修准备</seg>
       </tuv>
     </tu>
     <tu>
@@ -11560,8 +11560,8 @@
       <tuv lang="en-US">
         <seg>L O2 tank 2 maintenance preparation</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T032710Z" creationid="AbtdB" creationdate="20230609T032710Z">
-        <seg>液氧储箱 2 维修准备</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154805Z" creationid="AbtdB" creationdate="20230609T032710Z">
+        <seg>液氧贮箱 2 维修准备</seg>
       </tuv>
     </tu>
     <tu>
@@ -11584,8 +11584,8 @@
       <tuv lang="en-US">
         <seg>L O2 tank 3 maintenance preparation</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T032715Z" creationid="AbtdB" creationdate="20230609T032715Z">
-        <seg>液氧储箱 3 维修准备</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154805Z" creationid="AbtdB" creationdate="20230609T032715Z">
+        <seg>液氧贮箱 3 维修准备</seg>
       </tuv>
     </tu>
     <tu>
@@ -11608,8 +11608,8 @@
       <tuv lang="en-US">
         <seg>L O2 tanks no flow</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T082629Z" creationid="AbtdB" creationdate="20230610T082629Z">
-        <seg>液氧储箱无流量</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154805Z" creationid="AbtdB" creationdate="20230610T082629Z">
+        <seg>液氧贮箱无流量</seg>
       </tuv>
     </tu>
     <tu>
@@ -11824,8 +11824,8 @@
       <tuv lang="en-US">
         <seg>LH2 Purge - CSN 0.9.0|Purges the LH2 tanks while docked. |Typical use: maintenance preparation.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230612T154125Z" creationid="AbtdB" creationdate="20230612T154125Z">
-        <seg>液氢清除 - CSN 0.9.0|对接状态下排空液氢储箱。通常用于准备维修。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154237Z" creationid="AbtdB" creationdate="20230612T154125Z">
+        <seg>液氢清除 - CSN 0.9.0|对接状态下排空液氢贮箱。通常用于准备维修。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11856,72 +11856,72 @@
       <tuv lang="en-US">
         <seg>LH2 Quantity</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230608T173155Z" creationid="AbtdB" creationdate="20230603T180609Z">
-        <seg>液氢储量</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T161655Z" creationid="AbtdB" creationdate="20230603T180609Z">
+        <seg>液氢余量</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>LH2 Quantity No Warning</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T082744Z" creationid="AbtdB" creationdate="20230610T082744Z">
-        <seg>液氢储量无警告</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T161655Z" creationid="AbtdB" creationdate="20230610T082744Z">
+        <seg>液氢余量无警告</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>LH2 Tank #1</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T032551Z" creationid="AbtdB" creationdate="20230609T032551Z">
-        <seg>液氢储箱 #1</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154237Z" creationid="AbtdB" creationdate="20230609T032551Z">
+        <seg>液氢贮箱 #1</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>LH2 Tank #2</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T032614Z" creationid="AbtdB" creationdate="20230609T032614Z">
-        <seg>液氢储箱 #2</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154237Z" creationid="AbtdB" creationdate="20230609T032614Z">
+        <seg>液氢贮箱 #2</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>LH2 Tank #3</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T032622Z" creationid="AbtdB" creationdate="20230609T032622Z">
-        <seg>液氢储箱 #3</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154237Z" creationid="AbtdB" creationdate="20230609T032622Z">
+        <seg>液氢贮箱 #3</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>LH2 Tank Valve #1</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T154109Z" creationid="AbtdB" creationdate="20230610T154109Z">
-        <seg>液氢储箱活门 #1</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154237Z" creationid="AbtdB" creationdate="20230610T154109Z">
+        <seg>液氢贮箱活门 #1</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>LH2 Tank Valve #2</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T154231Z" creationid="AbtdB" creationdate="20230610T154231Z">
-        <seg>液氢储箱活门 #2</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154237Z" creationid="AbtdB" creationdate="20230610T154231Z">
+        <seg>液氢贮箱活门 #2</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>LH2 Tank Valve #3</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T154313Z" creationid="AbtdB" creationdate="20230610T154313Z">
-        <seg>液氢储箱活门 #3</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154237Z" creationid="AbtdB" creationdate="20230610T154313Z">
+        <seg>液氢贮箱活门 #3</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>LH2 Tanks Valves</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T154423Z" creationid="AbtdB" creationdate="20230610T154423Z">
-        <seg>液氢储箱活门</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154237Z" creationid="AbtdB" creationdate="20230610T154423Z">
+        <seg>液氢贮箱活门</seg>
       </tuv>
     </tu>
     <tu>
@@ -11936,8 +11936,8 @@
       <tuv lang="en-US">
         <seg>LH2 and L O2 tanks pressurization circuit to station</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T080838Z" creationid="AbtdB" creationdate="20230610T080838Z">
-        <seg>氢氧储箱增压回路：连至空间站</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T160854Z" creationid="AbtdB" creationdate="20230610T080838Z">
+        <seg>氢氧贮箱增压回路：连至空间站</seg>
       </tuv>
     </tu>
     <tu>
@@ -11952,8 +11952,8 @@
       <tuv lang="en-US">
         <seg>LH2 and LO2 Tanks Depressurization</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T080340Z" creationid="AbtdB" creationdate="20230610T080340Z">
-        <seg>液氢液氧储箱释压</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154805Z" creationid="AbtdB" creationdate="20230610T080340Z">
+        <seg>液氢液氧贮箱释压</seg>
       </tuv>
     </tu>
     <tu>
@@ -12088,8 +12088,8 @@
       <tuv lang="en-US">
         <seg>LH2 tank 1 maintenance preparation</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T032556Z" creationid="AbtdB" creationdate="20230609T032556Z">
-        <seg>液氢储箱 1 维修准备</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154237Z" creationid="AbtdB" creationdate="20230609T032556Z">
+        <seg>液氢贮箱 1 维修准备</seg>
       </tuv>
     </tu>
     <tu>
@@ -12120,16 +12120,16 @@
       <tuv lang="en-US">
         <seg>LH2 tank 1 valve: closed</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T155521Z" creationid="AbtdB" creationdate="20230610T154119Z">
-        <seg>液氢储箱 1 活门：关断</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154237Z" creationid="AbtdB" creationdate="20230610T154119Z">
+        <seg>液氢贮箱 1 活门：关断</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>LH2 tank 2 maintenance preparation</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T032620Z" creationid="AbtdB" creationdate="20230609T032620Z">
-        <seg>液氢储箱 2 维修准备</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154237Z" creationid="AbtdB" creationdate="20230609T032620Z">
+        <seg>液氢贮箱 2 维修准备</seg>
       </tuv>
     </tu>
     <tu>
@@ -12160,16 +12160,16 @@
       <tuv lang="en-US">
         <seg>LH2 tank 2 valve: closed</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T154233Z" creationid="AbtdB" creationdate="20230610T154233Z">
-        <seg>液氢储箱 2 活门：关闭</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154237Z" creationid="AbtdB" creationdate="20230610T154233Z">
+        <seg>液氢贮箱 2 活门：关闭</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>LH2 tank 3 maintenance preparation</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T032628Z" creationid="AbtdB" creationdate="20230609T032628Z">
-        <seg>液氢储箱 3 维修准备</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154237Z" creationid="AbtdB" creationdate="20230609T032628Z">
+        <seg>液氢贮箱 3 维修准备</seg>
       </tuv>
     </tu>
     <tu>
@@ -12200,24 +12200,24 @@
       <tuv lang="en-US">
         <seg>LH2 tank 3 valve: closed</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T154315Z" creationid="AbtdB" creationdate="20230610T154315Z">
-        <seg>液氢储箱 3 活门：关闭</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154237Z" creationid="AbtdB" creationdate="20230610T154315Z">
+        <seg>液氢贮箱 3 活门：关闭</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>LH2 tanks</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T082645Z" creationid="AbtdB" creationdate="20230610T082645Z">
-        <seg>液氢储箱</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154237Z" creationid="AbtdB" creationdate="20230610T082645Z">
+        <seg>液氢贮箱</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>LH2 tanks no flow</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T082647Z" creationid="AbtdB" creationdate="20230610T082647Z">
-        <seg>液氢储箱无流量</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154237Z" creationid="AbtdB" creationdate="20230610T082647Z">
+        <seg>液氢贮箱无流量</seg>
       </tuv>
     </tu>
     <tu>
@@ -12488,8 +12488,8 @@
       <tuv lang="en-US">
         <seg>LO2 Purge - CSN 0.9.0|Purges the LO2 tanks while docked. |Typical use: maintenance preparation.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230612T160926Z" creationid="AbtdB" creationdate="20230612T160918Z">
-        <seg>液氧清除 - CSN 0.9.0|对接状态下排空液氧储箱。通常用于准备维修。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154805Z" creationid="AbtdB" creationdate="20230612T160918Z">
+        <seg>液氧清除 - CSN 0.9.0|对接状态下排空液氧贮箱。通常用于准备维修。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12520,64 +12520,64 @@
       <tuv lang="en-US">
         <seg>LO2 Quantity</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230608T173315Z" creationid="AbtdB" creationdate="20230603T180648Z">
-        <seg>液氧储量</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T161655Z" creationid="AbtdB" creationdate="20230603T180648Z">
+        <seg>液氧余量</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>LO2 Tank #1</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T032645Z" creationid="AbtdB" creationdate="20230609T032645Z">
-        <seg>液氧储箱 #1</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154805Z" creationid="AbtdB" creationdate="20230609T032645Z">
+        <seg>液氧贮箱 #1</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>LO2 Tank #2</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T032701Z" creationid="AbtdB" creationdate="20230609T032701Z">
-        <seg>液氧储箱 #2</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154805Z" creationid="AbtdB" creationdate="20230609T032701Z">
+        <seg>液氧贮箱 #2</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>LO2 Tank #3</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T032711Z" creationid="AbtdB" creationdate="20230609T032711Z">
-        <seg>液氧储箱 #3</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154805Z" creationid="AbtdB" creationdate="20230609T032711Z">
+        <seg>液氧贮箱 #3</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>LO2 Tank Valve #1</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T154659Z" creationid="AbtdB" creationdate="20230610T154659Z">
-        <seg>液氧储箱活门 #1</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154805Z" creationid="AbtdB" creationdate="20230610T154659Z">
+        <seg>液氧贮箱活门 #1</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>LO2 Tank Valve #2</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T154937Z" creationid="AbtdB" creationdate="20230610T154937Z">
-        <seg>液氧储箱活门 #2</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154805Z" creationid="AbtdB" creationdate="20230610T154937Z">
+        <seg>液氧贮箱活门 #2</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>LO2 Tank Valve #3</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T155158Z" creationid="AbtdB" creationdate="20230610T155158Z">
-        <seg>液氧储箱活门 #3</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154805Z" creationid="AbtdB" creationdate="20230610T155158Z">
+        <seg>液氧贮箱活门 #3</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>LO2 Tanks Valves</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T155333Z" creationid="AbtdB" creationdate="20230610T155333Z">
-        <seg>液氧储箱活门</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154805Z" creationid="AbtdB" creationdate="20230610T155333Z">
+        <seg>液氧贮箱活门</seg>
       </tuv>
     </tu>
     <tu>
@@ -12608,8 +12608,8 @@
       <tuv lang="en-US">
         <seg>LO2 tanks</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T082608Z" creationid="AbtdB" creationdate="20230610T082608Z">
-        <seg>液氧储箱</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154805Z" creationid="AbtdB" creationdate="20230610T082608Z">
+        <seg>液氧贮箱</seg>
       </tuv>
     </tu>
     <tu>
@@ -13264,8 +13264,8 @@
       <tuv lang="en-US">
         <seg>Main Tanks T° Regulation</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T101755Z" creationid="AbtdB" creationdate="20230820T101755Z">
-        <seg>主储箱温控</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T160045Z" creationid="AbtdB" creationdate="20230820T101755Z">
+        <seg>主贮箱温控</seg>
       </tuv>
     </tu>
     <tu>
@@ -15608,8 +15608,8 @@
       <tuv lang="en-US">
         <seg>Power Plant Tanks temperature regulation: ON</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T101809Z" creationid="AbtdB" creationdate="20230820T101809Z">
-        <seg>动力装置储箱温控：开启</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T160047Z" creationid="AbtdB" creationdate="20230820T101809Z">
+        <seg>动力装置贮箱温控：开启</seg>
       </tuv>
     </tu>
     <tu>
@@ -15968,8 +15968,8 @@
       <tuv lang="en-US">
         <seg>Pressurant Purge - CSN 1.0.0|Purging of the pressurant tanks.|Expected initial conditions:|- electrical and thermal systems up and running</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230612T154135Z" creationid="AbtdB" creationdate="20230612T153127Z">
-        <seg>增压气体清除 - CSN 1.0.0|排空增压气体储箱。|预期初始条件：|- 电气与热控系统上电并运行。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154936Z" creationid="AbtdB" creationdate="20230612T153127Z">
+        <seg>增压气体清除 - CSN 1.0.0|排空增压气瓶。|预期初始条件：|- 电气与热控系统上电并运行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16008,8 +16008,8 @@
       <tuv lang="en-US">
         <seg>Pressurant Quantity</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230603T180501Z" creationid="AbtdB" creationdate="20230603T180501Z">
-        <seg>增压气体储量</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T161655Z" creationid="AbtdB" creationdate="20230603T180501Z">
+        <seg>增压气体余量</seg>
       </tuv>
     </tu>
     <tu>
@@ -16024,64 +16024,64 @@
       <tuv lang="en-US">
         <seg>Pressurant Tank #1</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T031854Z" creationid="AbtdB" creationdate="20230609T031854Z">
-        <seg>增压气体储箱 #1</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154936Z" creationid="AbtdB" creationdate="20230609T031854Z">
+        <seg>增压气瓶 #1</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Pressurant Tank #2</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T032511Z" creationid="AbtdB" creationdate="20230609T032511Z">
-        <seg>增压气体储箱 #2</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154936Z" creationid="AbtdB" creationdate="20230609T032511Z">
+        <seg>增压气瓶 #2</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Pressurant Tank #3</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T032520Z" creationid="AbtdB" creationdate="20230609T032520Z">
-        <seg>增压气体储箱 #3</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154936Z" creationid="AbtdB" creationdate="20230609T032520Z">
+        <seg>增压气瓶 #3</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Pressurant Tanks</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T083939Z" creationid="AbtdB" creationdate="20230610T083939Z">
-        <seg>增压气体储箱</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154936Z" creationid="AbtdB" creationdate="20230610T083939Z">
+        <seg>增压气瓶</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Pressurant Tanks No Flow</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T083945Z" creationid="AbtdB" creationdate="20230610T083945Z">
-        <seg>增压气体储箱无流量</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154936Z" creationid="AbtdB" creationdate="20230610T083945Z">
+        <seg>增压气瓶无流量</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Pressurant Tanks Valves</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230608T171826Z" creationid="AbtdB" creationdate="20230608T171826Z">
-        <seg>增压气体储箱活门</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154936Z" creationid="AbtdB" creationdate="20230608T171826Z">
+        <seg>增压气瓶活门</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Pressurant Tanks Valves (a)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T081023Z" creationid="AbtdB" creationdate="20230610T081023Z">
-        <seg>增压气体储箱活门（a）</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154936Z" creationid="AbtdB" creationdate="20230610T081023Z">
+        <seg>增压气瓶活门（a）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Pressurant Tanks Valves (b)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T083830Z" creationid="AbtdB" creationdate="20230610T083830Z">
-        <seg>增压气体储箱活门（b）</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154936Z" creationid="AbtdB" creationdate="20230610T083830Z">
+        <seg>增压气瓶活门（b）</seg>
       </tuv>
     </tu>
     <tu>
@@ -16208,8 +16208,8 @@
       <tuv lang="en-US">
         <seg>Pressurant tank 1 maintenance preparation</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T182501Z" creationid="AbtdB" creationdate="20230609T032023Z">
-        <seg>增压气体储箱 1 维修准备</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154936Z" creationid="AbtdB" creationdate="20230609T032023Z">
+        <seg>增压气瓶 1 维修准备</seg>
       </tuv>
     </tu>
     <tu>
@@ -16224,8 +16224,8 @@
       <tuv lang="en-US">
         <seg>Pressurant tank 2 maintenance preparation</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T032518Z" creationid="AbtdB" creationdate="20230609T032518Z">
-        <seg>增压气体储箱 2 维修准备</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154936Z" creationid="AbtdB" creationdate="20230609T032518Z">
+        <seg>增压气瓶 2 维修准备</seg>
       </tuv>
     </tu>
     <tu>
@@ -16240,8 +16240,8 @@
       <tuv lang="en-US">
         <seg>Pressurant tank 3 maintenance preparation</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T032524Z" creationid="AbtdB" creationdate="20230609T032524Z">
-        <seg>增压气体储箱 3 维修准备</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154936Z" creationid="AbtdB" creationdate="20230609T032524Z">
+        <seg>增压气瓶 3 维修准备</seg>
       </tuv>
     </tu>
     <tu>
@@ -16392,16 +16392,16 @@
       <tuv lang="en-US">
         <seg>Pressurizes the LH2 tanks from the station's H2|supply.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230612T155143Z" creationid="AbtdB" creationdate="20230612T155143Z">
-        <seg>使用空间站供氢增压液氢储箱。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154237Z" creationid="AbtdB" creationdate="20230612T155143Z">
+        <seg>使用空间站供氢增压液氢贮箱。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Pressurizes the LO2 tanks from the station's H2|supply.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230612T164628Z" creationid="AbtdB" creationdate="20230612T164628Z">
-        <seg>使用空间站供氢增压液氧储箱。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154805Z" creationid="AbtdB" creationdate="20230612T164628Z">
+        <seg>使用空间站供氢增压液氧贮箱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17344,24 +17344,24 @@
       <tuv lang="en-US">
         <seg>Refill the helium-3 and deuterium gas tanks |(fusion fuels)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230603T165427Z" creationid="AbtdB" creationdate="20230603T132447Z">
-        <seg>重新填充氦 3 和氘储箱（聚变燃料）。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T155152Z" creationid="AbtdB" creationdate="20230603T132447Z">
+        <seg>重新填充氦 3 和氘气瓶（聚变燃料）。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Refill the liquid hydrogen and oxygen tanks.|(reaction mass and APU fuel)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230603T165454Z" creationid="AbtdB" creationdate="20230603T134024Z">
-        <seg>补加液氢与液氧储箱（工质与 APU 燃料）。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154805Z" creationid="AbtdB" creationdate="20230603T134024Z">
+        <seg>补加液氢与液氧贮箱（工质与 APU 燃料）。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Refuel the liquid hydrogen (LH2), liquid oxygen|(LO2) and pressurant gas tanks</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230608T171626Z" creationid="AbtdB" creationdate="20230608T171626Z">
-        <seg>加注液氢（LH2），液氧（LO2）和增压气体储箱。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154854Z" creationid="AbtdB" creationdate="20230608T171626Z">
+        <seg>加注液氢（LH2），液氧（LO2）贮箱和增压气瓶。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20056,8 +20056,8 @@
       <tuv lang="en-US">
         <seg>Switch to another section to drive the main bus|with a full LO2 reserve if needed</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T083840Z" creationid="AbtdB" creationdate="20230607T034830Z">
-        <seg>按需将主汇流条供电转换至液氧储量较满的区段。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T161655Z" creationid="AbtdB" creationdate="20230607T034830Z">
+        <seg>按需将主汇流条供电转换至液氧余量较多的区段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20488,32 +20488,32 @@
       <tuv lang="en-US">
         <seg>Tanks</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230608T174857Z" creationid="AbtdB" creationdate="20230608T174857Z">
-        <seg>储箱</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T155655Z" creationid="AbtdB" creationdate="20230608T174857Z">
+        <seg>贮箱与气瓶</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Tanks No Flow</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230608T174907Z" creationid="AbtdB" creationdate="20230608T174907Z">
-        <seg>储箱无流量</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T155754Z" creationid="AbtdB" creationdate="20230608T174907Z">
+        <seg>贮箱无流量</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Tanks T° Regulation</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230608T180939Z" creationid="AbtdB" creationdate="20230608T180913Z">
-        <seg>储箱温控</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T160854Z" creationid="AbtdB" creationdate="20230608T180913Z">
+        <seg>贮箱温控</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Tanks temperature regulation: ON</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230608T180920Z" creationid="AbtdB" creationdate="20230608T180920Z">
-        <seg>储箱温控：开启</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T160854Z" creationid="AbtdB" creationdate="20230608T180920Z">
+        <seg>贮箱温控：开启</seg>
       </tuv>
     </tu>
     <tu>
@@ -20864,8 +20864,8 @@
       <tuv lang="en-US">
         <seg>The LH2 and LO2 tanks must be depressurized so|they can be filled again (port supply source|pressure &gt; tank pressure condition).</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T080513Z" creationid="AbtdB" creationdate="20230610T080513Z">
-        <seg>必须先释压液氢与液氧储箱，才能对其进行加注（要求港口供应压力 ＞ 储箱压力）。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T160854Z" creationid="AbtdB" creationdate="20230610T080513Z">
+        <seg>必须先释压液氢与液氧贮箱，才能对其进行加注（要求港口供应压力 ＞ 贮箱压力）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20912,16 +20912,16 @@
       <tuv lang="en-US">
         <seg>The LH2 tank's contents (%)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230608T173324Z" creationid="AbtdB" creationdate="20230607T145514Z">
-        <seg>液氢储量（%）。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T161536Z" creationid="AbtdB" creationdate="20230607T145514Z">
+        <seg>液氢携带量（%）。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>The LH2 tanks valves must be open</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230608T174132Z" creationid="AbtdB" creationdate="20230608T174132Z">
-        <seg>液氢储箱活门必须打开。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154237Z" creationid="AbtdB" creationdate="20230608T174132Z">
+        <seg>液氢贮箱活门必须打开。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20944,8 +20944,8 @@
       <tuv lang="en-US">
         <seg>The LO2 tanks valves must be open</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230608T174430Z" creationid="AbtdB" creationdate="20230608T174430Z">
-        <seg>液氧储箱活门必须打开。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154805Z" creationid="AbtdB" creationdate="20230608T174430Z">
+        <seg>液氧贮箱活门必须打开。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21280,8 +21280,8 @@
       <tuv lang="en-US">
         <seg>The empty tanks can now be filled.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T110620Z" creationid="AbtdB" creationdate="20230609T110620Z">
-        <seg>现在可以加注清空的储箱了。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T160443Z" creationid="AbtdB" creationdate="20230609T110620Z">
+        <seg>气瓶已清空，现在可以加注了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21408,8 +21408,8 @@
       <tuv lang="en-US">
         <seg>The liquid nitrogen and liquid oxygen only|partially fill their tank's available volume, with the |remainder containing their vapor in pressure|equilibrium. The resulting "saturating vapor |pressure" is strongly dependent on the|temperature, which is used to pressurize the|tank as required.|Table's [●] shortcut at the top left</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230820T101744Z" creationid="AbtdB" creationdate="20230820T101744Z">
-        <seg>液氮和液氧储箱设计为不会完全注满，储箱的剩余空间用于容纳饱和蒸汽。『饱和蒸汽压』取决于温度，因此系统使用温度来控制储箱压力。|表的左上角有开启全部温控的快捷方式 [●]。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154805Z" creationid="AbtdB" creationdate="20230820T101744Z">
+        <seg>液氮和液氧贮箱设计为不会完全注满，贮箱的剩余空间用于容纳饱和蒸汽。『饱和蒸汽压』取决于温度，因此系统使用温度来控制贮箱压力。|表的左上角有开启全部温控的快捷方式 [●]。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21608,64 +21608,64 @@
       <tuv lang="en-US">
         <seg>The pressurant tanks valves must be closed</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T081115Z" creationid="AbtdB" creationdate="20230610T081115Z">
-        <seg>增压气体储箱活门必须关断。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154936Z" creationid="AbtdB" creationdate="20230610T081115Z">
+        <seg>增压气瓶活门必须关断。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>The pressurant tanks valves must be open</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230608T171856Z" creationid="AbtdB" creationdate="20230608T171856Z">
-        <seg>增压气体储箱活门必须打开。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154936Z" creationid="AbtdB" creationdate="20230608T171856Z">
+        <seg>增压气瓶活门必须打开。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>The pressurization valves for the LH2 tanks must|be closed</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230608T173350Z" creationid="AbtdB" creationdate="20230608T172221Z">
-        <seg>液氢储箱的增压活门必须关断。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154237Z" creationid="AbtdB" creationdate="20230608T172221Z">
+        <seg>液氢贮箱的增压活门必须关断。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>The pressurization valves for the LH2 tanks must|be closed before the refueling phase. The low |pressure ensures the tanks can be refilled.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230612T153902Z" creationid="AbtdB" creationdate="20230612T153902Z">
-        <seg>必须关断液氢箱增压活门才能进入加注阶段。此时储箱内处于低压状态，可以正常加注。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T160854Z" creationid="AbtdB" creationdate="20230612T153902Z">
+        <seg>必须关断液氢箱增压活门才能进入加注阶段。此时贮箱内处于低压状态，可以正常加注。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>The pressurization valves for the LH2 tanks must|be open to purge their pressurization circuits.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230612T153419Z" creationid="AbtdB" creationdate="20230612T153314Z">
-        <seg>必须开启液氢箱的增压活门，才能排空储箱的增压回路。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T160854Z" creationid="AbtdB" creationdate="20230612T153314Z">
+        <seg>必须开启液氢箱的增压活门，才能排空贮箱的增压回路。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>The pressurization valves for the LO2 tanks must|be closed</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230608T172300Z" creationid="AbtdB" creationdate="20230608T172239Z">
-        <seg>液氧储箱的增压活门必须关断。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154805Z" creationid="AbtdB" creationdate="20230608T172239Z">
+        <seg>液氧贮箱的增压活门必须关断。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>The pressurization valves for the LO2 tanks must|be closed before the refueling phase. The low |pressure ensures the tanks can be refilled.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230612T153929Z" creationid="AbtdB" creationdate="20230612T153929Z">
-        <seg>必须关断液氢箱增压活门才能进入加注阶段。此时储箱内处于低压状态，可以正常加注。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T160854Z" creationid="AbtdB" creationdate="20230612T153929Z">
+        <seg>必须关断液氢箱增压活门才能进入加注阶段。此时贮箱内处于低压状态，可以正常加注。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>The pressurization valves for the LO2 tanks must|be open to purge their pressurization circuits.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230612T153440Z" creationid="AbtdB" creationdate="20230612T153440Z">
-        <seg>必须开启液氧箱的增压活门，才能排空储箱的增压回路。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T160854Z" creationid="AbtdB" creationdate="20230612T153440Z">
+        <seg>必须开启液氧箱的增压活门，才能排空贮箱的增压回路。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21856,16 +21856,16 @@
       <tuv lang="en-US">
         <seg>The tanks' pressurization valves must be open.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T081214Z" creationid="AbtdB" creationdate="20230610T081214Z">
-        <seg>储箱增压活门必须打开。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T160854Z" creationid="AbtdB" creationdate="20230610T081214Z">
+        <seg>贮箱增压活门必须打开。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>The temperature regulation of the tanks is using|the cryogenic circuit as heat sink. Turn these |systems off to temporarily reduce the load on the|cryogenic coolers.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230616T134257Z" creationid="AbtdB" creationdate="20230616T134117Z">
-        <seg>储箱温控系统使用低温回路作为热沉。临时关闭该系统以减轻低温制冷机负载。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T160854Z" creationid="AbtdB" creationdate="20230616T134117Z">
+        <seg>贮箱温控系统使用低温回路作为热沉。临时关闭该系统以减轻低温制冷机负载。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22520,16 +22520,16 @@
       <tuv lang="en-US">
         <seg>Turn off the port's LH2 supply. The station will|collect the tanks' content.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230612T155046Z" creationid="AbtdB" creationdate="20230612T154730Z">
-        <seg>关闭港口的液氢供应。空间站会抽出储箱内容物。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T160854Z" creationid="AbtdB" creationdate="20230612T154730Z">
+        <seg>关闭港口的液氢供应。空间站会抽出贮箱内容物。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Turn off the port's LO2 supply. The station will|collect the tanks' content.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230612T160940Z" creationid="AbtdB" creationdate="20230612T160940Z">
-        <seg>关闭港口的液氧供应。空间站会抽出储箱内容物。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T160854Z" creationid="AbtdB" creationdate="20230612T160940Z">
+        <seg>关闭港口的液氧供应。空间站会抽出贮箱内容物。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22592,8 +22592,8 @@
       <tuv lang="en-US">
         <seg>Turn on the port's H2 supply. Gaseous hydrogen|is used to pressurize the LH2 tanks.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230612T154733Z" creationid="AbtdB" creationdate="20230612T154636Z">
-        <seg>开启港口的氢气供应。气氢用于增压液氢储箱。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154237Z" creationid="AbtdB" creationdate="20230612T154636Z">
+        <seg>开启港口的氢气供应。气氢用于增压液氢贮箱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22672,8 +22672,8 @@
       <tuv lang="en-US">
         <seg>Turn-on the refrigeration units (300 K equipment|heat-pipes) and the cryogenic-coolers (24 K|circuits: superconducting devices, cryo tanks)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230608T112150Z" creationid="AbtdB" creationdate="20230608T112150Z">
-        <seg>打开制冷组件（300 K 设备热管）和低温制冷机（24 K 回路：超导设备、低温储箱）。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T155419Z" creationid="AbtdB" creationdate="20230608T112150Z">
+        <seg>打开制冷组件（300 K 设备热管）和低温制冷机（24 K 回路：超导设备、低温贮箱）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23008,24 +23008,24 @@
       <tuv lang="en-US">
         <seg>Turns on the Thermal Control and Cryogenic Unit,|section 1. It regulates the equipment bay T° and|the 24 K cryogenic circuit (superconducting|devices and cryo tanks).</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230608T112409Z" creationid="AbtdB" creationdate="20230608T112409Z">
-        <seg>打开 1 区热控与低温组件。它调节设备舱和 24 K 低温回路（超导设备和低温储箱）的温度。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T155419Z" creationid="AbtdB" creationdate="20230608T112409Z">
+        <seg>打开 1 区热控与低温组件。它调节设备舱和 24 K 低温回路（超导设备和低温贮箱）的温度。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Turns on the Thermal Control and Cryogenic Unit,|section 2. It regulates the equipment bay T° and|the 24 K cryogenic circuit (superconducting|devices and cryo tanks).</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230608T113210Z" creationid="AbtdB" creationdate="20230608T113210Z">
-        <seg>打开 2 区热控与低温组件。它调节设备舱和 24 K 低温回路（超导设备和低温储箱）的温度。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T155419Z" creationid="AbtdB" creationdate="20230608T113210Z">
+        <seg>打开 2 区热控与低温组件。它调节设备舱和 24 K 低温回路（超导设备和低温贮箱）的温度。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Turns on the Thermal Control and Cryogenic Unit,|section 3. It regulates the equipment bay T° and|the 24 K cryogenic circuit (superconducting|devices and cryo tanks).</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230608T113301Z" creationid="AbtdB" creationdate="20230608T113301Z">
-        <seg>打开 3 区热控与低温组件。它调节设备舱和 24 K 低温回路（超导设备和低温储箱）的温度。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T155419Z" creationid="AbtdB" creationdate="20230608T113301Z">
+        <seg>打开 3 区热控与低温组件。它调节设备舱和 24 K 低温回路（超导设备和低温贮箱）的温度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23056,8 +23056,8 @@
       <tuv lang="en-US">
         <seg>Turns on the temperature regulation for the |Pressurant, LH2, LO2, He-3 and D2 tanks.|([●] shortcut at the top left)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230608T181011Z" creationid="AbtdB" creationdate="20230608T180925Z">
-        <seg>开启增压气体、液氢、液氧、氦 3 和氘气储箱的温控（左上角【●】快捷按钮）。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T155319Z" creationid="AbtdB" creationdate="20230608T180925Z">
+        <seg>开启液氢、液氧贮箱，增压气瓶，氦 3、氘气瓶的温控（左上角【●】快捷按钮）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23456,56 +23456,56 @@
       <tuv lang="en-US">
         <seg>Wait for the D2 and He-3 tanks to empty.|(you can use time acceleration)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T111524Z" creationid="AbtdB" creationdate="20230609T111524Z">
-        <seg>等待氘气与氦 3 储箱排空（你可使用时间加速）。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T155030Z" creationid="AbtdB" creationdate="20230609T111524Z">
+        <seg>等待氘气与氦 3 气瓶排空（你可使用时间加速）。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Wait for the D2 tanks to refill.|(you can use time acceleration)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T110746Z" creationid="AbtdB" creationdate="20230609T110746Z">
-        <seg>等待氘气储箱加注（你可使用时间加速）。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T155339Z" creationid="AbtdB" creationdate="20230609T110746Z">
+        <seg>等待氘气瓶加注（你可使用时间加速）。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Wait for the He-3 tanks to fill.|(You can use time acceleration)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230609T110803Z" creationid="AbtdB" creationdate="20230609T110803Z">
-        <seg>等待氦 3 储箱加注（你可使用时间加速）。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T155030Z" creationid="AbtdB" creationdate="20230609T110803Z">
+        <seg>等待氦 3 气瓶加注（你可使用时间加速）。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Wait for the LH2 tanks to empty.|(You can use time acceleration)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230612T155338Z" creationid="AbtdB" creationdate="20230612T155338Z">
-        <seg>等待液氢储箱排空（你可使用时间加速）。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154237Z" creationid="AbtdB" creationdate="20230612T155338Z">
+        <seg>等待液氢贮箱排空（你可使用时间加速）。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Wait for the LH2 tanks to fill.|(You can use time acceleration)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T082657Z" creationid="AbtdB" creationdate="20230610T082657Z">
-        <seg>等待液氢储箱加注（你可使用时间加速）。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154237Z" creationid="AbtdB" creationdate="20230610T082657Z">
+        <seg>等待液氢贮箱加注（你可使用时间加速）。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Wait for the LO2 tanks to empty.|(You can use time acceleration)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230612T164740Z" creationid="AbtdB" creationdate="20230612T164740Z">
-        <seg>等待液氧储箱排空（你可使用时间加速）。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154805Z" creationid="AbtdB" creationdate="20230612T164740Z">
+        <seg>等待液氧贮箱排空（你可使用时间加速）。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Wait for the LO2 tanks to fill.|(You can use time accleration)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T082643Z" creationid="AbtdB" creationdate="20230610T082643Z">
-        <seg>等待液氧储箱加注（你可使用时间加速）。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154805Z" creationid="AbtdB" creationdate="20230610T082643Z">
+        <seg>等待液氧贮箱加注（你可使用时间加速）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23616,8 +23616,8 @@
       <tuv lang="en-US">
         <seg>Wait for the pressurant tanks to fill.|(You can use time acceleration).</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230610T084002Z" creationid="AbtdB" creationdate="20230610T084002Z">
-        <seg>等待增压气体储箱加注（你可使用时间加速）。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T154936Z" creationid="AbtdB" creationdate="20230610T084002Z">
+        <seg>等待增压气瓶加注（你可使用时间加速）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23632,8 +23632,8 @@
       <tuv lang="en-US">
         <seg>Wait for the pressurization circuits and tanks to|empty. You can use the time acceleration.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230612T153705Z" creationid="AbtdB" creationdate="20230612T153705Z">
-        <seg>等待增压气体回路和储箱排空。你可使用时间加速。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T160821Z" creationid="AbtdB" creationdate="20230612T153705Z">
+        <seg>等待增压气瓶和增压回路排空。你可使用时间加速。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23656,8 +23656,8 @@
       <tuv lang="en-US">
         <seg>Wait for the tanks to fill.|You can use time acceleration or start running the|departure preparations (listed above)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230608T174925Z" creationid="AbtdB" creationdate="20230608T174925Z">
-        <seg>等待储箱注满。你可以使用时间加速，或开始执行离港准备（检查单见下）。</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T160007Z" creationid="AbtdB" creationdate="20230608T174925Z">
+        <seg>等待贮箱与气瓶注满。你可以使用时间加速，或开始执行离港准备（检查单见下）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23728,8 +23728,8 @@
       <tuv lang="en-US">
         <seg>Waiting for all tanks to fill</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="AbtdB" changedate="20230608T174902Z" creationid="AbtdB" creationdate="20230608T174902Z">
-        <seg>等待所有储箱注满</seg>
+      <tuv lang="zh-CN" changeid="AbtdB" changedate="20231023T155758Z" creationid="AbtdB" creationdate="20230608T174902Z">
+        <seg>等待所有贮箱注满</seg>
       </tuv>
     </tu>
     <tu>

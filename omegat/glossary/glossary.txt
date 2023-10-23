@@ -41,7 +41,7 @@ N2	氮气
 CH4	甲烷
 Pressurant	增压气体
 Valve	活门
-Pressurant Tanks Valve	增压气体储箱活门
+Pressurant Tanks Valve	增压气瓶活门
 Pressurant Cross Valve	增压气体交输活门
 cross-valve	交输活门
 Bleed Valve	引气活门
@@ -55,7 +55,7 @@ Cryo-Pump	低温泵
 vaporizer	蒸发器
 Cryo-fluids	低温流体
 Propellant	推进剂
-Quantity	储量
+Quantity	余量
 circuit	回路
 circuit	电路
 Manifold	总管
